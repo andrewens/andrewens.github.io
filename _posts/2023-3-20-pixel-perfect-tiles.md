@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Cartesian collisions"
+title: "Pixel-perfect tile atlas for round world in 2D"
 ---
 
 ## About

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tycoon Template"
+title: "ROBLOX Classic Tycoon Template"
 ---
 
 ## About

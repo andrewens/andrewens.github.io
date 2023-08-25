@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Cartesian collisions"
+title: "walk on a round 3D planet with gravity"
 ---
 
 ## About

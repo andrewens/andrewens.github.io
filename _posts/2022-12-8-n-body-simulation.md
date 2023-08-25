@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Cartesian collisions"
+title: "n-body gravity simulation"
 ---
 
 ## About

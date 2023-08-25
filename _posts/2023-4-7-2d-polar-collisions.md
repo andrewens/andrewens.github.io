@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "2D Cartesian collisions"
+title: "2D Polar Collisions"
 ---
 
 ## About
