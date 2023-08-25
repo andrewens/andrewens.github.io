@@ -1,4 +1,4 @@
-# index.md
+## Projects (ordered by date)
 
 <ul>
   {% for post in site.posts %}
