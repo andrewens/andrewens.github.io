@@ -1,0 +1,17 @@
+---
+layout: post
+title: "2D Cartesian collisions"
+---
+
+## About
+
+## Gifs
+
+![random-oct-tree-1.gif] (https://drive.google.com/uc?id=1IvPgBdtABHF2Rqet3Fsil7D6pnFcsPLN&export=download)
+![random-oct-tree-2.gif] (https://drive.google.com/uc?id=1FBlE47uFKVKpIg7mN3GvJVLhY-lkh_UW&export=download)
+![slow-random-quad-tree-1.gif] (https://drive.google.com/uc?id=1SBft1Ua-q9rJ31YMSNszjd0YgaKKgq0O&export=download)
+![slow-random-quad-tree.gif] (https://drive.google.com/uc?id=1g2rDD6OpXD2Tc_fukNrqqbMIT2bZ5uWy&export=download)
+![quad-tree-as-an-array.gif] (https://drive.google.com/uc?id=16VGHTndYTQJ5uOYaIvPzrcHeyTrbBBLr&export=download)
+![polished-quad-tree-coincident-points.gif] (https://drive.google.com/uc?id=1qzQyMY4pz4aDPHfNEj2N9_QLle42QN5z&export=download)
+![polished-quad-tree-2.gif] (https://drive.google.com/uc?id=1m7lxf_LtdKK7QlzxMbB5XZ96AHEDZY1P&export=download)
+![polished-quad-tree-1.gif] (https://drive.google.com/uc?id=1oS3hc3Sscgsc0WTOp4wx6sWxU-liUHvI&export=download)
