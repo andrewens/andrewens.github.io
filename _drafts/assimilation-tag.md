@@ -21,8 +21,6 @@ title: "2D Cartesian collisions"
 
 # Not gifs (will they render??)
 
-![AssimilationTagTikTok.mp4](https://drive.google.com/uc?id=1lT-Cie0jT6ROlL9gN5dmXPFREfHJomQs&export=download)
 ![AssimilationTagThumbnail.webp](https://drive.google.com/uc?id=112GIeiyUyIycff56KjP0G5YMx6gKN3fI&export=download)
-![AssimilationTagGameplayFootage.mp4](https://drive.google.com/uc?id=1VYoXdP6rIhEKVAu_20vcYVpXVlZM-huI&export=download)
 ![AssimilationTagCharSelection2.webp](https://drive.google.com/uc?id=1-ff4dQ8Oa-3bdxcwTSEDlcA53mRGT9hy&export=download)
 ![AssimilationTagCharacterSelection.webp](https://drive.google.com/uc?id=18z4xJlvhwQXOSN0xs5XeL8yMKNtyEMs-&export=download)
