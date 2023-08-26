@@ -70,7 +70,7 @@ What that means for collisions is that, by default, the character won't register
 
 We have to do two things to solve this:
 
-1. We have to make the theta position of our actually wrap around. We can't allow for theta values greater than 360 degrees or less than 0.
+1. We have to make the θ position of our actually wrap around. We can't allow for θ values greater than 360 degrees or less than 0.
 2. When we're overlapping the boundary, we have to simulate a second copy of the character but on the *other* side of the boundary, so we can register collisions with that side.
 
 Like this:
