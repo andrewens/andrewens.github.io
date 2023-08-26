@@ -15,7 +15,7 @@ I am currently working on this game.
 
 **Where I'm at**: I've successfully tested the gameplay, and people really liked it! It seems that no one has ever made a team-based sandbox/RPG game quite like this one before.
 
-I have a [roadmap]() on github and am working toward the first milestone, which is controlling a character that can interact with the world.
+I have a [roadmap](https://github.com/users/andrewens/projects/4/views/1) on github and am working toward the first milestone, which is controlling a character that can interact with the world.
 
 ## Gifs
 
