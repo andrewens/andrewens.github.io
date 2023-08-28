@@ -15,11 +15,11 @@ Implementing 2D collisions for AABBs (Axis-aligned bounding boxes) is [relativel
 
 ![TerribleFirstAttempt.gif](https://drive.google.com/uc?id=1sUD78eWco69OTDQBZRoEpW1dWRsQmodR&export=download)
 
-*One of my early attempts. Notice how the character slips into the blocks*
+_One of my early attempts. Notice how the character slips into the blocks_
 
 ![WorkingPolarCollisions.gif](https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download)
 
-*I was so relieved when I finally got it work*
+_I was so relieved when I finally got it work_
 
 ### What are polar coordinates?
 
@@ -33,7 +33,7 @@ I picked polar coordinates because they allowed me to define a grid of blocks fo
 
 ![PolarCollisionModel.gif](https://drive.google.com/uc?id=14nUkaMlB6YajdDCiyf2_huzXNWcCLpsF&export=download)
 
-*A collision math model I developed using desmos.com. Notice the concentric rings (measuring R) and angular values measuring θ: π/6 (30 degrees), π/3 (60 degrees), π/2 (90 degrees), etc*
+_A collision math model I developed using desmos.com. Notice the concentric rings (measuring R) and angular values measuring θ: π/6 (30 degrees), π/3 (60 degrees), π/2 (90 degrees), etc_
 
 ### Polar coordinates are not as easy as I thought
 
@@ -51,41 +51,38 @@ The solution is simple -- just don't let characters' R values go below a thresho
 
 ![AxisAnglePolarCollisions.gif](https://drive.google.com/uc?id=1nsyAJwFqEZ1XmyjHEXwHEwvDvaJJ9BYu&export=download)
 
-*Notice how there's an "invisible" ground around the center. This is a "threshold" of R that characters aren't allowed to go past.*
+_Notice how there's an "invisible" ground around the center. This is a "threshold" of R that characters aren't allowed to go past._
 
 _Shoutout to AxisAngle, who is playing the tech demo with me here. He is a main developer on the ROBLOX game Phantom Forces by StyLis studios_
 
-
 ### #2 Collisions break at the (θ=0 degrees) boundary
 
-Let's say our world is a clock. When I travel around the clock, it's normally continuous. This means that if I'm at 6, I either go to 7 or to 5 (if I'm going backwards). The difference between either of those positions is just one -- there's no big "jump". 
+Let's say our world is a clock. When I travel around the clock, it's normally continuous. This means that if I'm at 6, I either go to 7 or to 5 (if I'm going backwards). The difference between either of those positions is just one -- there's no big "jump".
 
-However, if I'm at 12, and I keep going clockwise / to the right -- I get back to 1. There *is* a jump.
+However, if I'm at 12, and I keep going clockwise / to the right -- I get back to 1. There _is_ a jump.
 
 What that means for collisions is that, by default, the character won't register collisions on the other side of that boundary. It's mathematically equivalent to this scenario:
 
 ![WorkingCartesianCollisions.gif](https://drive.google.com/uc?id=1pxuuY1LiAfSwT1eP385bTBM44pB0WkzU&export=download)
 
-*I just fall off the side of the world!*
+_I just fall off the side of the world!_
 
 We have to do two things to solve this:
 
 1. We have to make the θ position of our actually wrap around. We can't allow for θ values greater than 360 degrees or less than 0.
-2. When we're overlapping the boundary, we have to simulate a second copy of the character but on the *other* side of the boundary, so we can register collisions with that side.
+2. When we're overlapping the boundary, we have to simulate a second copy of the character but on the _other_ side of the boundary, so we can register collisions with that side.
 
 Like this:
 
 ![WraparoundWorkingCartesianCollisions.gif](https://drive.google.com/uc?id=1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y&export=download)
 
-*Notice the temporary, yellow duplicate of the character -- this allows us to be on both sides of the boundary at once.*
-
+_Notice the temporary, yellow duplicate of the character -- this allows us to be on both sides of the boundary at once._
 
 In polar coordinates, it looks like this:
 
 ![WrapAroundBug.gif](https://drive.google.com/uc?id=1Nhx0Sn3dXE05FKalXEIMsXnbDExDUpkr&export=download)
 
-*Wait, what's wrong??*
-
+_Wait, what's wrong??_
 
 At this point in development, I thought I had understood all of the challenges in making polar collisions. But there was a big one I was still missing...
 
@@ -93,32 +90,30 @@ At this point in development, I thought I had understood all of the challenges i
 
 A slice of pie is wider at the back than at the front, but it subtends the same angle throughout the whole slice. Similarly, in polar coordinates, a block with the same angle gets wider as it travels away from the center of the world.
 
-If we want our character's hitbox to stay the same *actual* size, we have to change its angular size as we change altitude. 
+If we want our character's hitbox to stay the same _actual_ size, we have to change its angular size as we change altitude.
 
-The formula for doing this is not complicated. The reason this is an issue is that 2d AABB collision algorithms -- which are meant to be simple -- are not usually designed for *hitboxes that change size every frame*.
+The formula for doing this is not complicated. The reason this is an issue is that 2d AABB collision algorithms -- which are meant to be simple -- are not usually designed for _hitboxes that change size every frame_.
 
-What happens is that, as you fall, the angular size of your character gets bigger. If you are directly adjacent to a tile, then as you fall your character will expand into that tile and register a collision. 
+What happens is that, as you fall, the angular size of your character gets bigger. If you are directly adjacent to a tile, then as you fall your character will expand into that tile and register a collision.
 
-When collisions happen, normally my algorithm looks at the velocity of the character to decide whether to offset in the R direction or the θ direction -- so if you're walking laterally (θ direction) into a block, your velocity will be in the θ direction, and the collision resolution will push your character out of any block you walk into along the θ direction. 
+When collisions happen, normally my algorithm looks at the velocity of the character to decide whether to offset in the R direction or the θ direction -- so if you're walking laterally (θ direction) into a block, your velocity will be in the θ direction, and the collision resolution will push your character out of any block you walk into along the θ direction.
 
-That works for most cases... except the case of falling while you get wider (in θ coordinates). While you're falling, your velocity is in the R direction going down, but you're actually colliding laterally in the θ direction. So the algorithm as defined so far will think that you need to be offset *up* instead of to the side. Let me show you what I mean:
+That works for most cases... except the case of falling while you get wider (in θ coordinates). While you're falling, your velocity is in the R direction going down, but you're actually colliding laterally in the θ direction. So the algorithm as defined so far will think that you need to be offset _up_ instead of to the side. Let me show you what I mean:
 
 ![SlipUnderFloorBug.gif](https://drive.google.com/uc?id=1OoKR2kZMcRZmwd8hrxVFC-XjAjckooAx&export=download)
 
-*The character slips into the floor here because the algorithm is resolving the collision in the wrong direction.*
+_The character slips into the floor here because the algorithm is resolving the collision in the wrong direction._
 
-*(You can also see how there's a jittery feedback loop when I try to slide down the side of another block.)*
+_(You can also see how there's a jittery feedback loop when I try to slide down the side of another block.)_
 
 ![JitteryEarlyVersion.gif](https://drive.google.com/uc?id=15QITbX78CaTRHNuIdromab1VmVR29kV3&export=download)
 
-*Here you can see the character bounces off of block corners really weird. This is the same effect.*
+_Here you can see the character bounces off of block corners really weird. This is the same effect._
 
-
-So ironically I was able to solve this edge case by using a worse collision resolution formula that I developed earlier on. It resolves the collision by looking at which dimension (R or θ) that the character is overlapping the block in more. 
+So ironically I was able to solve this edge case by using a worse collision resolution formula that I developed earlier on. It resolves the collision by looking at which dimension (R or θ) that the character is overlapping the block in more.
 
 ![WorkingPolarCollisions.gif](https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download)
 
-*Ahh....*
-
+_Ahh...._
 
 In ROBLOX Studio, I was still able to find an edge case where, when you jump on top of a block onto its corner, it still throws you under the ground. I was never able to replicate this in-game for some reason, so I consider this to be 99.9% complete.

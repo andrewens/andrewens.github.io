@@ -17,6 +17,8 @@ I am currently working on this game.
 
 I have a [roadmap](https://github.com/users/andrewens/projects/4/views/1) on github and am working toward the first milestone, which is controlling a character that can interact with the world.
 
+The majority of research projects on this site are for this game. I originally imagined building Ship Crew RPG in 3D, but I decided to commit to 2D after building [Tunnel Wars.](./2023-1-2-tunnel-wars-v1.md)
+
 ## Gifs
 
 Unforuntately, the only gameplay footage I recorded was the bugs :(
