@@ -115,3 +115,10 @@ That works for most cases... except the case of falling while you get wider (in 
 
 
 So ironically I was able to solve this edge case by using a worse collision resolution formula that I developed earlier on. It resolves the collision by looking at which dimension (R or θ) that the character is overlapping the block in more. 
+
+![WorkingPolarCollisions.gif](https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download)
+
+*Ahh....*
+
+
+In ROBLOX Studio, I was still able to find an edge case where, when you jump on top of a block onto its corner, it still throws you under the ground. I was never able to replicate this in-game for some reason, so I consider this to be 99.9% complete.
