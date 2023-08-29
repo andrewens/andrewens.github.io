@@ -37,6 +37,8 @@ If you want to understand how the algorithm works, I highly recommend [these](ht
 
 The gist of the algorithm is that clusters of bodies can be approximated as a single point when you're far enough away from the group. For example, this moving system could be approximated as a single body:
 
+> You can play/edit this demo on ROBLOX [here.](https://www.roblox.com/games/11391815266/Barnes-Hut-Gravity-Simulation)
+
 ![moving-solar-system.gif](https://drive.google.com/uc?id=1Zm8hZwfWqMbZEaDSjfoGB-FbkJ1Lb9vX&export=download)
 
 _The green boxes are the cells of the octree, the spatial partioning structure that makes this work_
