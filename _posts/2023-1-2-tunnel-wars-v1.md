@@ -5,7 +5,7 @@ title: "Tunnel Wars V1"
 
 ## About
 
-I got sick of doing research for [Ship Crew RPG](./2023-6-29-ship-crew-rpg.md) and I desperately wanted to put together a *game*. So I simplified a lot and decided to just remake the ROBLOX 2008 classic game, [The Underground War](https://www.roblox.com/games/189632/The-Underground-War) -- but in two dimensions, around a *round* planet. This is the result. 
+I got sick of doing research for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) and I desperately wanted to put together a *game*. So I simplified a lot and decided to just remake the ROBLOX 2008 classic game, [The Underground War](https://www.roblox.com/games/189632/The-Underground-War) -- but in two dimensions, around a *round* planet. This is the result. 
 
 Also, I added a volcano that eats blocks!
 

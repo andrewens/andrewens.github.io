@@ -5,7 +5,7 @@ title: "Tunnel Wars V2"
 
 ## About
 
-This is the second iteration of Tunnel Wars. You can see the first iteration [here.](./2023-1-2-tunnel-wars-v1.md)
+This is the second iteration of Tunnel Wars. You can see the first iteration [here.]({% post_url 2023-1-2-tunnel-wars-v1 %})
 
 Tunnel Wars V1 had a lot of user-experience issues with the controls feeling awkward, especially around the ladder mechanics. I spent a lot of time on the second iteration improving how it felt to move your character through the world -- including jumping off ladders, letting go of ladders, back-strafing, character's head point at the mouse, and so on.
 

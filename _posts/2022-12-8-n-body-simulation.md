@@ -5,7 +5,7 @@ title: "n-body gravity simulation"
 
 ## About
 
-After implementing the [Barnes-Hut algorithm](./2022-10-27-barnes-hut-algorithm.md) for [Ship Crew RPG](./2023-6-29-ship-crew-rpg.md), I realized that I could gain an even simpler, yet more aggressive optimization: stop simulating tiny objects' gravitational mass.
+After implementing the [Barnes-Hut algorithm]({% post_url 2022-10-27-barnes-hut-algorithm %}) for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), I realized that I could gain an even simpler, yet more aggressive optimization: stop simulating tiny objects' gravitational mass.
 
 This allowed me to simulate several thousands of stars in ROBLOX. That won't sound very impressive to a C developer, but for Lua it's pretty good!
 

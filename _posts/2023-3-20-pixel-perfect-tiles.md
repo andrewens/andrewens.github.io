@@ -5,15 +5,15 @@ title: "Pixel-perfect tile atlas for round world in 2D"
 
 ## About
 
-The most important feedback I got on [Tunnel Wars](./2023-1-2-tunnel-wars-v1.md) was from my sister. She said to me... "what IS the game?"
+The most important feedback I got on [Tunnel Wars]({% post_url 2023-1-2-tunnel-wars-v1 %}) was from my sister. She said to me... "what IS the game?"
 
 And I felt that.
 
-I had gotten tired of doing research, which is why I threw together [Tunnel Wars V1](./2023-1-2-tunnel-wars-v1.md) in just two weeks. And I iterated on it again, but it still lacked *soul*. It was so *generic* -- which my sister pointed out in her comment.
+I had gotten tired of doing research, which is why I threw together [Tunnel Wars V1]({% post_url 2023-1-2-tunnel-wars-v1 %}) in just two weeks. And I iterated on it again, but it still lacked *soul*. It was so *generic* -- which my sister pointed out in her comment.
 
 It took me several months to find that soul.
 
-What hadn't occurred to me while I was developing Tunnel Wars was that *[Ship Crew RPG](./2023-6-29-ship-crew-rpg.md) could be in 2D*. I had always assumed that it would have to be in three dimensions, which is what made the research complicated. Once I committed to making it in 2D, everything started to come together.
+What hadn't occurred to me while I was developing Tunnel Wars was that *[Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) could be in 2D*. I had always assumed that it would have to be in three dimensions, which is what made the research complicated. Once I committed to making it in 2D, everything started to come together.
 
 The demo below is only a small part of that journey. I wanted to figure out how I could construct a 2D tilemap for a round planet that still looked something like Terraria or Starbound.
 

@@ -5,7 +5,7 @@ title: "2D Cartesian collisions"
 
 ## About
 
-While building [character collisions in 2D polar coordinates](./2023-4-7-2d-polar-collisions.md) for [Ship Crew RPG](./2023-6-29-ship-crew-rpg.md), I developed character collisions in *Cartesian* coordinates to help me solve some of the problems I ran into for the polar equivalent (i.e. on a round planet). 
+While building [character collisions in 2D polar coordinates]({% post_url 2023-4-7-2d-polar-collisions %}) for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), I developed character collisions in *Cartesian* coordinates to help me solve some of the problems I ran into for the polar equivalent (i.e. on a round planet). 
 
 > _This post is still a work in progress! I'll add more soon :)_
 

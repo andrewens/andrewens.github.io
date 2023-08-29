@@ -5,9 +5,9 @@ title: "orbital controls experiment"
 
 ## About
 
-A big problem I anticipate in [Ship Crew RPG](./2023-6-29-ship-crew-rpg.md) is that controlling a spaceship in realistic gravitational fields may be unintuive. So I've worked on developing intuitive spaceship controls, so that flying a spaceship is closer to feeling like Star Wars than Apollo 13. Even in realistic gravity.
+A big problem I anticipate in [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) is that controlling a spaceship in realistic gravitational fields may be unintuive. So I've worked on developing intuitive spaceship controls, so that flying a spaceship is closer to feeling like Star Wars than Apollo 13. Even in realistic gravity.
 
-I've done more work since this demo [here.](./2023-5-7-2d-physics-engine.md)
+I've done more work since this demo [here.]({% post_url 2023-5-7-2d-physics-engine %})
 
 > _This post is still a work in progress! I'll add more soon :)_
 
