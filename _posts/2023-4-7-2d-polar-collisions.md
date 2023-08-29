@@ -3,11 +3,9 @@ layout: post
 title: "2D Polar Collisions"
 ---
 
-## About
-
 ### Motivation
 
-This is part of my research into developing my own physics engine for [Ship Crew RPG.](/_posts/2023-6-29-ship-crew-rpg.md) Part of the game entails walking on round planets, so I developed collisions for a character's hitbox and a tilemap arranged in polar coordinates so I could make a Terraria-style grid of blocks for round worlds.
+This is part of my research into developing my own physics engine for [Ship Crew RPG.]({% post_url 2023-6-29-ship-crew-rpg }) Part of the game entails walking on round planets, so I developed collisions for a character's hitbox and a tilemap arranged in polar coordinates so I could make a Terraria-style grid of blocks for round worlds.
 
 This was a lot harder than I thought it would be!
 

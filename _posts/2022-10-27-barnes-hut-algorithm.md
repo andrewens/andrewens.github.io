@@ -5,7 +5,9 @@ title: "Barnes-Hut optimized n-body gravity simulation"
 
 ## About
 
-The premise of my [Ship Crew RPG](./2023-6-29-ship-crew-rpg.md) game is that the universe is at least one galaxy, built out of star systems, where planets orbit stars and moons orbit planets and so on. _All of the gravity is actually simulated._
+> You can play/edit this demo on ROBLOX [here.](https://www.roblox.com/games/11391815266/Barnes-Hut-Gravity-Simulation)
+
+The premise of my [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) game is that the universe is at least one galaxy, built out of star systems, where planets orbit stars and moons orbit planets and so on. _All of the gravity is actually simulated._
 
 I want to have a big galaxy, which means a lot of physics computations -- so I decided to research an optimized gravity algorithm called the [Barnes-Hut algorithm](https://jheer.github.io/barnes-hut/).
 
@@ -15,7 +17,7 @@ Before I dive into that, I have a couple of quick side notes:
 
 I want to be clear that in Ship Crew RPG, _it's not just one big physics environment_. A really important design goal is that characters are able to walk around "inside" big, moving structures like ships and planets and moons.
 
-To achieve that, the "interior" environments of ships and planets are actually kept separate and stationary, and I explicitly write code for transitioning between the environments. I made a tech demo for this [here](./2022-11-7-ship-relativity-render.md), and it's also evident in the proof of concept for [Ship Crew RPG.](./2023-6-29-ship-crew-rpg.md)
+To achieve that, the "interior" environments of ships and planets are actually kept separate and stationary, and I explicitly write code for transitioning between the environments. I made a tech demo for this [here]({% post_url 2022-11-7-ship-relativity-render %}), and it's also evident in the proof of concept for [Ship Crew RPG.]({% post_url 2023-6-29-ship-crew-rpg %})
 
 #### #2 The biggest optimization is just doing less gravity.
 
@@ -27,13 +29,13 @@ If you only have a handful of massive objects, this effectively reduces time com
 
 We can get away with this for Ship Crew RPG because of point #1 -- a galaxy-level environment is literally only concerned with the gravity of stars (tiny) and black holes / galaxy mass centers (massive).
 
-I have a demo of this [here.](./2022-12-8-n-body-simulation.md)
+I have a demo of this [here.]({% post_url 2022-12-8-n-body-simulation %})
 
 ### And now, for Barnes-Hut
 
 With all that being said, it was really fun to implement the Barnes-Hut algorithm and the experience was definitely worth it. Let me show you what I made.
 
-If you want to understand how the algorithm works, I highly recommend [these](https://jheer.github.io/barnes-hut/) [sources.](http://arborjs.org/docs/barnes-hut)
+If you want to understand how the algorithm works, I highly recommend [these](https://jheer.github.io/barnes-hut/) two [sources.](http://arborjs.org/docs/barnes-hut)
 
 The gist of the algorithm is that clusters of bodies can be approximated as a single point when you're far enough away from the group. For example, this moving system could be approximated as a single body:
 
