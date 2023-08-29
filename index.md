@@ -2,9 +2,9 @@
 
 Check these out! (the other project posts aren't complete yet)
 
-{% post_url 2022-10-26-quad-tree.md %}
-{% post_url 2022-10-27-barnes-hut-algorithm.md %}
-{% post_url 2023-4-7-2d-polar-collisions.md %}
+{% post_url 2022-10-26-quad-tree %}
+{% post_url 2022-10-27-barnes-hut-algorithm %}
+{% post_url 2023-4-7-2d-polar-collisions %}
 
 ## All Projects (ordered by date)
 
