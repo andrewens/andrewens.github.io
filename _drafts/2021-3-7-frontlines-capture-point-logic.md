@@ -3,6 +3,17 @@ layout: post
 title: "FPS Capture Point logic for Frontlines"
 ---
 
+# About
+
+The first thing I made during the ROBLOX 2021 Spring Accelerator (for Frontlines) was capture-point logic. The gifs below show my process for testing both the UI and the model.
+
+In-game there was one circular progress indicator per capture point. The diamond moving along the scale was purely for testing, and demonstrates the underlying mathematical model -- if the other team owns the point, you have to return the point to neutral before you can capture it for your team. (this was per Frontlines' specs). 
+
+Later I had to normalize the capturing power of a teammate such that if every player in the game stood on one point, no one would capture it -- even if there were more people on one team than the other. 
+
+If I remember correctly, the circular progress indicator used a ROBLOX UI feature called Gradients for the transparency, but that required creating two halves for the circle. If you look closely, when the capture point progress is completed, there's still a small gap left before it resets, which I believe was due to there actually being two halves of the circle + clipping.
+
+# Gifs
 ![CapturePoint14.gif](https://drive.google.com/uc?id=1zihoZ43fODMPFHD5Az0YCQNNjV2C3SwR&export=download)
 ![CapturePoint13.gif](https://drive.google.com/uc?id=1CF2vkpgBCt-ogJGal-CXz1FB-iGNPuDe&export=download)
 ![SmallCapturePoint.gif](https://drive.google.com/uc?id=1TuAhelFw3aYOrQU0GFnRSqbGJVshN_I8&export=download)

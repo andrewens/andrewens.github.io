@@ -1,7 +1,21 @@
 ---
 layout: post
-title: "Gameplay logic for frontlines"
+title: "Match flow UI for frontlines"
 ---
+
+# About
+These gifs are match flow-related UI elements that I coded for Frontlines. Elements include:
+
+* A leaderboard overlay
+* Killfeed
+* Capture point progress indicators
+* Match score progress + timer
+* Map Voting 
+* Loading screen
+
+I used Rodux (Roblox equivalent of Redux.js) for managing the state, and I also programmed a UI element to render that at runtime to make debugging easier. 
+
+# Gifs
 
 ![InGameLeaderboard.gif](https://drive.google.com/uc?id=1jYmc-6ClQ-x858plMCxGiTNcW5pJqQOg&export=download)
 ![BrowsingReduxStateAtRunTime.gif](https://drive.google.com/uc?id=1yqhkwAxFb3kFjqrxu_SH0OatPDCkA___&export=download)
