@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Working on Frontlines"
+tags: "frontlines"
 ---
 
 # About

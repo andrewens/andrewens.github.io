@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Modular gun customization for Frontlines"
+tags: "frontlines"
 ---
 
 # About
