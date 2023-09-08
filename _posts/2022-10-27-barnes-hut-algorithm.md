@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Barnes-Hut optimized n-body gravity simulation"
-tags: ["ship crew rpg", "technical"]
+tags: ["ship crew rpg", "technical", "favorite posts"]
 ---
 
 ## About

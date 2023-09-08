@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2D Polar Collisions"
-tags: ["ship crew rpg", "technical"]
+tags: ["ship crew rpg", "technical", "favorite posts"]
 ---
 
 ### Motivation
