@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SSRP Looting Mechanics"
+tags: ["ship crew rpg"]
 ---
 
 # Gifs

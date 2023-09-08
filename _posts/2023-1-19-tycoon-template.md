@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "ROBLOX Classic Tycoon Template"
+tags: ["roblox game jam 2023"]
 ---
 
 ## About

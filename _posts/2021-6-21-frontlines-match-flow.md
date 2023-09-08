@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Match flow UI for frontlines"
-tags: "frontlines"
+tags: ["frontlines"]
 ---
 
 # About

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "walk on a round 3D planet with gravity"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

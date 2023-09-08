@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2D Cartesian collisions"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

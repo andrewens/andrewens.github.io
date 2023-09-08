@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "(Bad) Hard Particle Collisions"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

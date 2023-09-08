@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ship Crew RPG Proof of Concept"
+tags: ["ship crew rpg"]
 ---
 
 ## About

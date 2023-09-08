@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Orbit predictor"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

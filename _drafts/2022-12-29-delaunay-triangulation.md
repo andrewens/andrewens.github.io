@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Delaunay triangulation"
+tags: ["technical"]
 ---
 
 ## About

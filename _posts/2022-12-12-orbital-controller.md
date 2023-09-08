@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "orbital controls experiment"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

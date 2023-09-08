@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "In-game ROBLOX Lua editor"
+tags: ["education"]
 ---
 
 ## About

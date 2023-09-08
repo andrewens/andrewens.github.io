@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Undead Defense"
+tags: ["undead defense"]
 ---
 
 # Gifs

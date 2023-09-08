@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Ship relativity render"
+tags: ["ship crew rpg", "technical"]
 ---
 
 ## About

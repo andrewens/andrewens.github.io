@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Frontlines Front End"
+tags: ["frontlines"]
 ---
 
 # Gifs

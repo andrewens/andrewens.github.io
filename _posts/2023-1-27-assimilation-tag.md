@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Assimilation Tag (2023 ROBLOX Internal Game Jam)"
+tags: ["roblox game jam 2023"]
 ---
 
 ## About
