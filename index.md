@@ -3,7 +3,8 @@
 <ul class="photo-gallery">
 {% for post in site.posts %}
   <li>
-    <img src="{{ post.thumbnail }}" alt="{{ post.title }}">{{ post.title }}</img>
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+    <a href="{{ post.url }}"></a>
   </li>
 {% endfor %}
 </ul>
