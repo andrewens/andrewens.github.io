@@ -1,10 +1,21 @@
+## Gallery (testing)
+
+<ul class="photo-gallery">
+{% for post in site.posts %}
+  <li>
+    <img src="{{ post.thumbnail }}" alt="{{ post.title }}">{{ post.title }}</img>
+  </li>
+{% endfor %}
+</ul>
+
 ## All projects
 
 {% for tag in site.tags %}
-  {% assign t = tag | first %}
-  {% assign posts = tag | last %}
+{% assign t = tag | first %}
+{% assign posts = tag | last %}
 
 {{ t | downcase }}
+
 <ul>
 {% for post in posts %}
   {% if post.tags contains t %}
