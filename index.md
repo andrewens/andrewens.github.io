@@ -1,9 +1,9 @@
 ## Gallery (testing)
 
-<ul class="photo-gallery">
+<ul class="gallery">
 {% for post in site.posts %}
   <li>
-    <img src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+    <img class="gallery-img" src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
     <a href="{{ post.url }}"></a>
   </li>
 {% endfor %}

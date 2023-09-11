@@ -1,4 +1,4 @@
-.photo-gallery {
+.gallery {
   width: 90%;
   margin: 0 auto;
   display: grid;
@@ -6,4 +6,11 @@
   grid-gap: 20px;
   justify-content: center;
   align-items: center;
+}
+
+.gallery-img {
+  width: 200px;
+  height: 200px;
+  cursor: pointer;
+  transition: transform 0.2s;
 }
