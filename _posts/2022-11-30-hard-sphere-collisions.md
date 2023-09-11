@@ -2,6 +2,7 @@
 layout: post
 title: "(Bad) Hard Particle Collisions"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1Z6DsWk8sIqpu1cTBVuqLhk0qrtYIn9rF&export=download
 ---
 
 ## About

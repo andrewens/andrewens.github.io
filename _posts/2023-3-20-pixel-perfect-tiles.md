@@ -2,6 +2,7 @@
 layout: post
 title: "Pixel-perfect tile atlas for round world in 2D"
 tags: ["ship crew rpg"]
+thumbnail: https://drive.google.com/uc?id=1g4qO9rNlHAhcC1JACJ008YCDSov7073t&export=download
 ---
 
 ## About

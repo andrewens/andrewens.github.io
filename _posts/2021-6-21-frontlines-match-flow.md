@@ -2,6 +2,7 @@
 layout: post
 title: "Match flow UI for frontlines"
 tags: ["frontlines"]
+thumbnail: https://drive.google.com/uc?id=1h0KfMVjrh5P3c6OFHRiJY8CHn3I1MU-_&export=download
 ---
 
 # About

@@ -2,6 +2,7 @@
 layout: post
 title: "Assimilation Tag (2023 ROBLOX Internal Game Jam)"
 tags: ["roblox game jam 2023"]
+thumbnail: https://drive.google.com/uc?id=1Jb5RcJbVcm6nl6-OkieW89etrGbuxbeW&export=download
 ---
 
 ## About

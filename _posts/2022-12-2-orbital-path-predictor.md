@@ -2,6 +2,7 @@
 layout: post
 title: "Orbit predictor"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1KwLXQFg0E7CUUQbeTkjS9qxRP8wvs8kC&export=download
 ---
 
 ## About

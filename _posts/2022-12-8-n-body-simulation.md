@@ -2,6 +2,7 @@
 layout: post
 title: "n-body gravity simulation"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea&export=download
 ---
 
 ## About

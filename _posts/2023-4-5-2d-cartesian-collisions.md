@@ -2,6 +2,7 @@
 layout: post
 title: "2D Cartesian collisions"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y&export=download
 ---
 
 ## About

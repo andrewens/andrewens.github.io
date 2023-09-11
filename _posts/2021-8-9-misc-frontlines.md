@@ -2,6 +2,7 @@
 layout: post
 title: "Working on Frontlines"
 tags: ["frontlines"]
+thumbnail: https://drive.google.com/uc?id=1d13oyN09LV7tEQDLpblZAJBc8NecotM1&export=download
 ---
 
 # About

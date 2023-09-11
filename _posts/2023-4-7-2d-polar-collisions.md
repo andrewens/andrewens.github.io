@@ -2,6 +2,7 @@
 layout: post
 title: "2D Polar Collisions"
 tags: ["ship crew rpg", "technical", "favorite posts"]
+thumbnail: https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download
 ---
 
 ### Motivation

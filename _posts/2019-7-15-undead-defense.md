@@ -2,6 +2,7 @@
 layout: post
 title: "Undead Defense"
 tags: ["undead defense"]
+thumbnail: https://drive.google.com/uc?id=1G06r-_7jLrSqBVqaVL1XeXANNhHSfGmc&export=download
 ---
 
 # About

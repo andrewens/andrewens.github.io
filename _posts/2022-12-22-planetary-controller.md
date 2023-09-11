@@ -2,6 +2,7 @@
 layout: post
 title: "walk on a round 3D planet with gravity"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1akeX-oG1AH83jLLMTeteLgSYASfd3qSw&export=download
 ---
 
 ## About

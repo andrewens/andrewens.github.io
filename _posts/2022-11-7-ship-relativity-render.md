@@ -2,6 +2,7 @@
 layout: post
 title: "Ship relativity render"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1oPqU6dxBJ3upJc6eBAqJGrlsp8FfnVTt&export=download
 ---
 
 ## About

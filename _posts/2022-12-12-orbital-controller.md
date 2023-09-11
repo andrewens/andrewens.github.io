@@ -2,6 +2,7 @@
 layout: post
 title: "orbital controls experiment"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=1FpD9jhyDlRcLabEcQ7yT1O80MaWQefmG&export=download
 ---
 
 ## About

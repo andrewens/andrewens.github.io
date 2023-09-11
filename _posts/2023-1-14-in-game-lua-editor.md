@@ -2,6 +2,7 @@
 layout: post
 title: "In-game ROBLOX Lua editor"
 tags: ["education"]
+thumbnail: https://drive.google.com/uc?id=1aFy3q7u07UMPiNMXGIUtmVgcmRGYoY1B&export=download
 ---
 
 ## About

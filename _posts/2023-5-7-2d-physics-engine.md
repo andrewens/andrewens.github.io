@@ -2,6 +2,7 @@
 layout: post
 title: "ECS-style 2D Physics / Rendering Engine in ROBLOX"
 tags: ["ship crew rpg", "technical"]
+thumbnail: https://drive.google.com/uc?id=13xvpHDxZ-yRQPHQMF1DmwA6b-gIclKpj&export=download
 ---
 
 ## About

@@ -2,6 +2,7 @@
 layout: post
 title: "Weapons configuration plugin for Frontlines"
 tags: ["frontlines"]
+thumbnail: https://drive.google.com/uc?id=12o41i6uojujevUD54-F93-W0exhlTEho&export=download
 ---
 
 # About

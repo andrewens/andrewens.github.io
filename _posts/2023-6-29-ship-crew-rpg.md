@@ -2,6 +2,7 @@
 layout: post
 title: "Ship Crew RPG Proof of Concept"
 tags: ["ship crew rpg"]
+thumbnail: https://drive.google.com/uc?id=1IbLL8la5pjgEC9Sgdezl5QbcImHzaKXM&export=download
 ---
 
 ## About

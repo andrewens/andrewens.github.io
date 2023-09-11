@@ -2,6 +2,7 @@
 layout: post
 title: "FPS Capture Point logic for Frontlines"
 tags: ["frontlines"]
+thumbnail: https://drive.google.com/uc?id=1zihoZ43fODMPFHD5Az0YCQNNjV2C3SwR&export=download
 ---
 
 # About

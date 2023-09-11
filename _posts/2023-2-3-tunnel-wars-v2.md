@@ -2,6 +2,7 @@
 layout: post
 title: "Tunnel Wars V2"
 tags: ["ship crew rpg"]
+thumbnail: https://drive.google.com/uc?id=1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW&export=download
 ---
 
 ## About

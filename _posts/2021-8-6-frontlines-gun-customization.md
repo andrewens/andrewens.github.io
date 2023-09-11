@@ -2,6 +2,7 @@
 layout: post
 title: "Modular gun customization for Frontlines"
 tags: ["frontlines"]
+thumbnail: https://drive.google.com/uc?id=1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-&export=download
 ---
 
 # About
