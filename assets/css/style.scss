@@ -3,7 +3,9 @@
 
 @import "{{ site.theme }}";
 
-h1 {
-  color: #ff0000;
+header {
+  width: 170px;
 }
-
+section {
+  width: 600px;
+}
