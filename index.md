@@ -1,3 +1,5 @@
+# This is a heading
+
 ## All projects
 
 {% for tag in site.tags %}
