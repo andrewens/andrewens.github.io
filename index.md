@@ -24,10 +24,8 @@ Click on a GIF to view that project.
 
 <ul class="gallery">
 {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">
-      <img class="gallery-img" src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
-    </a>
-  </li>
+  <a href="{{ post.url }}">
+    <img class="gallery-img" src="{{ post.thumbnail }}" alt="{{ post.title }}"/>
+  </a>
 {% endfor %}
 </ul>
