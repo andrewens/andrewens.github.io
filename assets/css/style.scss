@@ -20,9 +20,14 @@ section {
   align-items: center;
 }
 
-.gallery-img {
+.gallery-div { /* contains the image */
   width: 200px;
   height: 200px;
   cursor: pointer;
   transition: transform 0.2s;
+  list-style-type: none;
+}
+
+.gallery-img {
+  object-fit: contain;
 }
