@@ -4,10 +4,16 @@
 @import "{{ site.theme }}";
 
 header {
-  width: 170px;
+  width: 200px;
 }
 section {
-  width: 600px;
+  width: 800px;
+}
+footer {
+  width: 200px;
+}
+.wrapper {
+  width: 1000px;
 }
 
 .gallery {    
@@ -21,6 +27,7 @@ section {
   display:inline-block;    
   margin-right: auto;    
   margin-left: auto;  
+  padding: 0;
 }  
 .gallery-img {    
   width: 100% !important;    
