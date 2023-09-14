@@ -1,7 +1,4 @@
----
-layout: page
-title: All Projects
----
+# Project Directory
 
 Projects are organized by tags (posts are sometimes duplicated).
 

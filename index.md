@@ -1,8 +1,3 @@
----
-layout: page
-title: Portfolio
----
-
 # Portfolio
 
 Click on a gif to see more about that project.
