@@ -2,7 +2,7 @@
 
 Click on a gif to see more about that project.
 
-Or, see all [posts listed by tags.]({% link directory.md %})
+Or, see all projects listed by [tags.]({% link directory.md %})
 
 <ul class="gallery">
 {% for post in site.posts %}

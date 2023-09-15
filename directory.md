@@ -2,7 +2,7 @@
 
 Projects are organized by tags (posts are sometimes duplicated).
 
-See [Portfolio]({{ site.baseurl }}) for project thumbnail gifs.
+See [Portfolio]({% link index.md %}) for project thumbnail gifs.
 
 {% for tag in site.tags %}
 {% assign t = tag | first %}
