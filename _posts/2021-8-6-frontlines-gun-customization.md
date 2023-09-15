@@ -31,6 +31,7 @@ Roact/Rodux were extremely helpful for making this happen.
 ![CustomizingMultipleModules2.gif](https://drive.google.com/uc?id=1zZxafxk3k0lBsXjadnMP9Lxleb6DncKo&export=download)
 ![CustomizingMultipleModules.gif](https://drive.google.com/uc?id=1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-&export=download)
 ![RotatingGun.gif](https://drive.google.com/uc?id=1L6ABB6OOR43nOoYORsp61HrAacyTqIUk&export=download)
+![EditingHelicopter.gif](https://drive.google.com/uc?id=1Z_likIQMNrH3gFvbb-JTfda_2TM89N35&export=download)
 
 The following gifs are previous iterations of the system shown above.
 
@@ -50,6 +51,7 @@ The following gifs are previous iterations of the system shown above.
 
 # Gifs (from during accelerator)
 
+![SelectMeleeWeapon.gif](https://drive.google.com/uc?id=1bYC_AkeWIK2Lm3R0SZNT63w9YtdspT5A&export=download)
 ![PrototypeLoadouts.gif](https://drive.google.com/uc?id=1wK0ZsU6WM2SuzvYKs0InHZ-X1Qscz9dI&export=download)
 ![PrototypeCustomization4.gif](https://drive.google.com/uc?id=1ys6DXArzroELLeVG8NdSVVO4hlF5tErW&export=download)
 ![PrototypeCustomization3.gif](https://drive.google.com/uc?id=16DxJ6H-w-LZgamQzFZSaPGO1KIGD1tcH&export=download)
