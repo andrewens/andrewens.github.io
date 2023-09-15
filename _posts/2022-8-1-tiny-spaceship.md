@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Spaceship Combat Test"
+title: "Tiny Spaceship"
 tags: ["ship crew rpg"]
-thumbnail: https://drive.google.com/uc?id=1RyWrzM8O_Hs7TxN6I5ezDA5nW7--2UvL&export=download
+thumbnail: https://drive.google.com/uc?id=17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL&export=download
 ---
 
 # Gifs 
