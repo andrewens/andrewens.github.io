@@ -6,6 +6,6 @@ Currently testing making galleries that have text.
 
 <ul class="gallery">
 {% for member in beatles %}
-  <p>{{ member }}</p>
+  <p class="gallery-img">{{ member }}</p>
 {% endfor %}
 </ul>
