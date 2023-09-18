@@ -11,8 +11,6 @@ My [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) game is built out of 
 
 Whenever my character is inside the spaceship, the spaceship is not actually moving because all of the parts are anchored. Instead, I cloned the environment and moved it relative to the ship. This is known in physics as "Galilean relativity" and produces an illusion indistinguishable from reality.
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 ![FlyingFromInterior.gif](https://drive.google.com/uc?id=1RZu0PiC0SnjK_vAz_4cmvJ9_xDQ88SGA&export=download)

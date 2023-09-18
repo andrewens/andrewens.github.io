@@ -21,8 +21,6 @@ Overall I'm really grateful for the opportunity to work with ROBLOX like that, a
 
 Thanks ROBLOX!
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 ![TestingWinCondition.gif](https://drive.google.com/uc?id=1lYiL9KEqRd80MipD2d7fgBRK_e8RvJiX&export=download)

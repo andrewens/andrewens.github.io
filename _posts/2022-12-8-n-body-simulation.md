@@ -7,11 +7,9 @@ thumbnail: https://drive.google.com/uc?id=1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea&expo
 
 ## About
 
-After implementing the [Barnes-Hut algorithm]({% post_url 2022-10-27-barnes-hut-algorithm %}) for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), I realized that I could gain an even simpler, yet more aggressive optimization: stop simulating tiny objects' gravitational mass.
+After implementing the Barnes-Hut algorithm for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), I realized that I could gain an even simpler, yet more aggressive optimization: stop simulating tiny objects' gravitational mass.
 
 This allowed me to simulate several thousands of stars in ROBLOX. That won't sound very impressive to a C developer, but for Lua it's pretty good!
-
-> _This post is still a work in progress! I'll add more soon :)_
 
 ## Gifs
 
@@ -126,8 +124,6 @@ I'm not gonna lie, it was really fun to play around with this tech demo.
 ### Quadtrees
 
 While researching the optimized n-body gravity simulations for my [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) game, I had to implement a quadtree / octree data structure so that I could implement the Barnes Hut algorithm.
-
-> More about my Barnes-Hut gravity simulation [here.]({% post_url 2022-10-27-barnes-hut-algorithm %})
 
 A quadtree (2 dimensional) or octree (3 dimensional) is a spatial partioning data structure that allows you to quickly retrieve a set of points that are in a given region of space.
 

@@ -15,8 +15,6 @@ I did playtest this with players -- but I unfortunately forgot to record gamepla
 
 *(I think I can add screenshots though... coming soon)*
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 
 ## Gifs
 

@@ -9,8 +9,6 @@ thumbnail: https://drive.google.com/uc?id=13xvpHDxZ-yRQPHQMF1DmwA6b-gIclKpj&expo
 
 I thought it might be more elegant if I developed my own physics engine for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), so I experimented with gravitational physics and collision mechanics using an Entity-Component-System framework. I was able to build gameplay features much faster using ROBLOX's physics and constraints system, so I have stopped working on my own engine. 
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 Using Separating Axis Theorem to detect overlap between 2D rectangles

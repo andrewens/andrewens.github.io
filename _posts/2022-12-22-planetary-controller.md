@@ -17,10 +17,6 @@ The controller works by rotating the character's coordinate space so the minimum
 
 Then, the character's movement and orientation are defined in terms of that tangential coordinate frame.
 
-This controller system may have greater application for creating [intuitive spaceship controls in 3d space.]({% post_url 2022-12-12-orbital-controller %})
-
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 ![FreeCharacterRotation.gif](https://drive.google.com/uc?id=1akeX-oG1AH83jLLMTeteLgSYASfd3qSw&export=download)
@@ -50,8 +46,6 @@ _This is what my first attempt looked like_
 A big problem I anticipate in [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) is that controlling a spaceship in realistic gravitational fields may be unintuive. So I've worked on developing intuitive spaceship controls, so that flying a spaceship is closer to feeling like Star Wars than Apollo 13. Even in realistic gravity.
 
 I've done more work since this demo [here.]({% post_url 2023-5-7-2d-physics-engine %})
-
-> _This post is still a work in progress! I'll add more soon :)_
 
 ## Gifs
 

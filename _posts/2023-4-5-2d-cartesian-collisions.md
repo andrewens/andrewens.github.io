@@ -9,8 +9,6 @@ thumbnail: https://drive.google.com/uc?id=1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y&expo
 
 While building [character collisions in 2D polar coordinates]({% post_url 2023-4-7-2d-polar-collisions %}) for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}), I developed character collisions in *Cartesian* coordinates to help me solve some of the problems I ran into for the polar equivalent (i.e. on a round planet). 
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 ![WraparoundWorkingCartesianCollisions.gif](https://drive.google.com/uc?id=1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y&export=download)

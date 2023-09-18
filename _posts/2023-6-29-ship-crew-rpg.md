@@ -68,8 +68,6 @@ I used Python to generate PNG tilemaps, and then imported it into ROBLOX studio 
 
 You can also see some early attempts at a character controller with very rudimentary collision.
 
-> _This post is still a work in progress! I'll add more soon :)_
-
 ## Gifs
 
 ![WorldSerialization.gif](https://drive.google.com/uc?id=1XFUlkxPZ69JTIuDE6WVZMuYjNl5l-okh&export=download)
