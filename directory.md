@@ -1,8 +1,6 @@
 # Project Directory
 
-Projects are organized by tags (posts are sometimes duplicated).
-
-See [Portfolio]({% link index.md %}) for project thumbnail gifs.
+Projects are organized by tags (posts are sometimes duplicated). See [Portfolio]({% link index.md %}) for project thumbnail gifs.
 
 {% for tag in site.tags %}
 {% assign t = tag | first %}
@@ -21,3 +19,5 @@ See [Portfolio]({% link index.md %}) for project thumbnail gifs.
 {% endfor %}
 </ul>
 {% endfor %}
+
+[Mystery link]({% link test.md %})

@@ -1,8 +1,6 @@
 # Portfolio
 
-Click on a gif to see more about that project.
-
-Or, see all projects listed by [tags.]({% link directory.md %})
+Click on a gif to see more about that project. Or, see all projects listed by [tags.]({% link directory.md %})
 
 <ul class="gallery">
 {% for post in site.posts %}
@@ -11,3 +9,5 @@ Or, see all projects listed by [tags.]({% link directory.md %})
   </a>
 {% endfor %}
 </ul>
+
+[Mystery link]({% link test.md %})
