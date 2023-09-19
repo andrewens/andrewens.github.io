@@ -1,6 +1,7 @@
-# Andrew's html sandbox
-
-Currently testing making galleries that have text.
+<div position="sticky">
+  <h1>Andrew's html sandbox</h1>
+  <p>Currently testing making galleries that have text.</p>
+</div>
 
 {% assign beatles = "John, Paul, George, Ringo" | split: ", " %}
 
