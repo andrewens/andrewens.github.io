@@ -1,6 +1,6 @@
 <div class="sticky">
   <h1>Andrew's html sandbox</h1>
-  <p style="padding: 0;">Currently testing making galleries that have [text.]({% link index.md %})</p>
+  <p style="padding: 0;">Currently testing making galleries that have <a href="{{{% link index.md %}}}">text.</a></p>
 </div>
 
 {% assign beatles = "John, Paul, George, Ringo" | split: ", " %}
