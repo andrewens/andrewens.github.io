@@ -1,4 +1,4 @@
-<div position="sticky">
+<div class="sticky">
   <h1>Andrew's html sandbox</h1>
   <p>Currently testing making galleries that have text.</p>
 </div>
