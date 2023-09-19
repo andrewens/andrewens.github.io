@@ -36,4 +36,9 @@ footer {
 
 .sticky {
   position: sticky;
+  top: 0;
+  width: 100%;
+  background: white;
+  height: 85px;
+  z-index: 20;
 }
