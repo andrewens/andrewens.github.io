@@ -2,7 +2,7 @@
 layout: post
 title: "Undead Defense"
 tags: ["undead defense", "playtested"]
-thumbnail: https://drive.google.com/uc?id=1G06r-_7jLrSqBVqaVL1XeXANNhHSfGmc&export=download
+thumbnail: https://lh3.google.com/u/0/d/1G06r-_7jLrSqBVqaVL1XeXANNhHSfGmc&export=download
 ---
 
 # About
