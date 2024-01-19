@@ -2,7 +2,7 @@
 layout: post
 title: "ROBLOX Classic Tycoon Template"
 tags: ["roblox game jam 2023"]
-thumbnail: https://drive.google.com/uc?export=view&id=1ao1e_8AZIMKh-sSljkzR7rfj8fKmb9bQ
+thumbnail: https://lh3.google.com/u/0/d/1ao1e_8AZIMKh-sSljkzR7rfj8fKmb9bQ
 ---
 
 ## About
