@@ -2,7 +2,7 @@
 layout: post
 title: "2D Polar Collisions"
 tags: ["ship crew rpg", "technical", "favorite posts"]
-thumbnail: https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download
+thumbnail: https://lh3.google.com/u/0/d/1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el
 ---
 
 ### Motivation
@@ -15,11 +15,11 @@ Implementing 2D collisions for AABBs (Axis-aligned bounding boxes) is [relativel
 
 > You can play/edit this demo on ROBLOX [here.](https://www.roblox.com/games/13032104915/Multiplayer-2D-Polar-Controller-w-Collisions)
 
-![TerribleFirstAttempt.gif](https://drive.google.com/uc?id=1sUD78eWco69OTDQBZRoEpW1dWRsQmodR&export=download)
+![TerribleFirstAttempt.gif](https://lh3.google.com/u/0/d/1sUD78eWco69OTDQBZRoEpW1dWRsQmodR)
 
 _One of my early attempts. Notice how the character slips into the blocks_
 
-![WorkingPolarCollisions.gif](https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download)
+![WorkingPolarCollisions.gif](https://lh3.google.com/u/0/d/1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el)
 
 _I was so relieved when I finally got it work_
 
@@ -33,7 +33,7 @@ That's not the only way to measure space. Polar coordinates are like measuring p
 
 I picked polar coordinates because they allowed me to define a grid of blocks for a round planet mathematically equivalent to a normal grid of blocks, like in Terraria or Starbound. At least, it was _almost_ mathematically equivalent.
 
-![PolarCollisionModel.gif](https://drive.google.com/uc?id=14nUkaMlB6YajdDCiyf2_huzXNWcCLpsF&export=download)
+![PolarCollisionModel.gif](https://lh3.google.com/u/0/d/14nUkaMlB6YajdDCiyf2_huzXNWcCLpsF)
 
 _A collision math model I developed using desmos.com. Notice the concentric rings (measuring R) and angular values measuring θ: π/6 (30 degrees), π/3 (60 degrees), π/2 (90 degrees), etc_
 
@@ -51,7 +51,7 @@ Gravity is defined such that your character falls along the R dimension toward t
 
 The solution is simple -- just don't let characters' R values go below a threshold:
 
-![AxisAnglePolarCollisions.gif](https://drive.google.com/uc?id=1nsyAJwFqEZ1XmyjHEXwHEwvDvaJJ9BYu&export=download)
+![AxisAnglePolarCollisions.gif](https://lh3.google.com/u/0/d/1nsyAJwFqEZ1XmyjHEXwHEwvDvaJJ9BYu)
 
 _Notice how there's an "invisible" ground around the center. This is a "threshold" of R that characters aren't allowed to go past._
 
@@ -65,7 +65,7 @@ However, if I'm at 12, and I keep going clockwise / to the right -- I get back t
 
 What that means for collisions is that, by default, the character won't register collisions on the other side of that boundary. It's mathematically equivalent to this scenario:
 
-![WorkingCartesianCollisions.gif](https://drive.google.com/uc?id=1pxuuY1LiAfSwT1eP385bTBM44pB0WkzU&export=download)
+![WorkingCartesianCollisions.gif](https://lh3.google.com/u/0/d/1pxuuY1LiAfSwT1eP385bTBM44pB0WkzU)
 
 _I just fall off the side of the world!_
 
@@ -76,13 +76,13 @@ We have to do two things to solve this:
 
 Like this:
 
-![WraparoundWorkingCartesianCollisions.gif](https://drive.google.com/uc?id=1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y&export=download)
+![WraparoundWorkingCartesianCollisions.gif](https://lh3.google.com/u/0/d/1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y)
 
 _Notice the temporary, yellow duplicate of the character -- this allows us to be on both sides of the boundary at once._
 
 In polar coordinates, it looks like this:
 
-![WrapAroundBug.gif](https://drive.google.com/uc?id=1Nhx0Sn3dXE05FKalXEIMsXnbDExDUpkr&export=download)
+![WrapAroundBug.gif](https://lh3.google.com/u/0/d/1Nhx0Sn3dXE05FKalXEIMsXnbDExDUpkr)
 
 _Wait, what's wrong??_
 
@@ -102,19 +102,19 @@ When collisions happen, normally my algorithm looks at the velocity of the chara
 
 That works for most cases... except the case of falling while you get wider (in θ coordinates). While you're falling, your velocity is in the R direction going down, but you're actually colliding laterally in the θ direction. So the algorithm as defined so far will think that you need to be offset _up_ instead of to the side. Let me show you what I mean:
 
-![SlipUnderFloorBug.gif](https://drive.google.com/uc?id=1OoKR2kZMcRZmwd8hrxVFC-XjAjckooAx&export=download)
+![SlipUnderFloorBug.gif](https://lh3.google.com/u/0/d/1OoKR2kZMcRZmwd8hrxVFC-XjAjckooAx)
 
 _The character slips into the floor here because the algorithm is resolving the collision in the wrong direction._
 
 _(You can also see how there's a jittery feedback loop when I try to slide down the side of another block.)_
 
-![JitteryEarlyVersion.gif](https://drive.google.com/uc?id=15QITbX78CaTRHNuIdromab1VmVR29kV3&export=download)
+![JitteryEarlyVersion.gif](https://lh3.google.com/u/0/d/15QITbX78CaTRHNuIdromab1VmVR29kV3)
 
 _Here you can see the character bounces off of block corners really weird. This is the same effect._
 
 So ironically I was able to solve this edge case by using a worse collision resolution formula that I developed earlier on. It resolves the collision by looking at which dimension (R or θ) that the character is overlapping the block in more.
 
-![WorkingPolarCollisions.gif](https://drive.google.com/uc?id=1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el&export=download)
+![WorkingPolarCollisions.gif](https://lh3.google.com/u/0/d/1KWuQvXnlADQMzpY5N5jDh_wlZFwmY-el)
 
 _Ahh...._
 

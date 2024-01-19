@@ -2,7 +2,7 @@
 layout: post
 title: "walk on a round 3D planet with gravity"
 tags: ["ship crew rpg", "technical"]
-thumbnail: https://drive.google.com/uc?id=1akeX-oG1AH83jLLMTeteLgSYASfd3qSw&export=download
+thumbnail: https://lh3.google.com/u/0/d/1akeX-oG1AH83jLLMTeteLgSYASfd3qSw
 ---
 
 ## About
@@ -19,22 +19,22 @@ Then, the character's movement and orientation are defined in terms of that tang
 
 ## Gifs
 
-![FreeCharacterRotation.gif](https://drive.google.com/uc?id=1akeX-oG1AH83jLLMTeteLgSYASfd3qSw&export=download)
+![FreeCharacterRotation.gif](https://lh3.google.com/u/0/d/1akeX-oG1AH83jLLMTeteLgSYASfd3qSw)
 
 _Final iteration._
 
-![MouseLock.gif](https://drive.google.com/uc?id=1-Wr2Mp6EcNM8XJOpZJIikkzmdUKpPEFi&export=download)
+![MouseLock.gif](https://lh3.google.com/u/0/d/1-Wr2Mp6EcNM8XJOpZJIikkzmdUKpPEFi)
 _A mouselock variant_
 
-![NoCharacterTurning.gif](https://drive.google.com/uc?id=1fZReXyNJWfFbwKg4Hn2qfR_UVRPzTo3M&export=download)
+![NoCharacterTurning.gif](https://lh3.google.com/u/0/d/1fZReXyNJWfFbwKg4Hn2qfR_UVRPzTo3M)
 
 _I had to manually make the character face in the direction of the camera. This is what it looked like before I did that._
 
-![FailedAttemptNo2.gif](https://drive.google.com/uc?id=1eCVGx5luA16dqj2OQyK4IYQPavVy1M4w&export=download)
+![FailedAttemptNo2.gif](https://lh3.google.com/u/0/d/1eCVGx5luA16dqj2OQyK4IYQPavVy1M4w)
 
 _My first few attempts were completely nonsensical lol_
 
-![FailedAttemptNo1.gif](https://drive.google.com/uc?id=1SyYxegAbwPDq8uIu273ni1WpMzT3RpRH&export=download)
+![FailedAttemptNo1.gif](https://lh3.google.com/u/0/d/1SyYxegAbwPDq8uIu273ni1WpMzT3RpRH)
 
 _This is what my first attempt looked like_
 
@@ -49,11 +49,11 @@ I've done more work since this demo [here.]({% post_url 2023-5-7-2d-physics-engi
 
 ## Gifs
 
-![FastAndUnstable.gif](https://drive.google.com/uc?id=1qo3hpMMxLUeSAf2H0c4kXeIGSEdYj9Er&export=download)
-![MirrorCollision.gif](https://drive.google.com/uc?id=1EDct366aKZvuwLHATpe_bZ7v1NYSROF8&export=download)
-![SecondPersonCrash.gif](https://drive.google.com/uc?id=1FpD9jhyDlRcLabEcQ7yT1O80MaWQefmG&export=download)
-![SatisfyingCompleteCircle.gif](https://drive.google.com/uc?id=1tYHLSL8dFjVDwXxZQ_g1Nri9_Fkg5i07&export=download)
-![UmWhat.gif](https://drive.google.com/uc?id=1K9GUD7em6yE27Smy_6eQr_K0VdbNLfec&export=download)
-![OrbitalSpaghetti.gif](https://drive.google.com/uc?id=1bGDn5qfPbJjYBCS6Gk0xbfDXmlbAjIGj&export=download)
-![SlowAndControlled.gif](https://drive.google.com/uc?id=185Q34gyfJ_cwflDTzPRYBU9vUDNBsTH7&export=download)
-![ThirdPersonCrash.gif](https://drive.google.com/uc?id=1U1XwaMTIcBjZBs4bLHMBquxSR5KXUgoe&export=download)
+![FastAndUnstable.gif](https://lh3.google.com/u/0/d/1qo3hpMMxLUeSAf2H0c4kXeIGSEdYj9Er)
+![MirrorCollision.gif](https://lh3.google.com/u/0/d/1EDct366aKZvuwLHATpe_bZ7v1NYSROF8)
+![SecondPersonCrash.gif](https://lh3.google.com/u/0/d/1FpD9jhyDlRcLabEcQ7yT1O80MaWQefmG)
+![SatisfyingCompleteCircle.gif](https://lh3.google.com/u/0/d/1tYHLSL8dFjVDwXxZQ_g1Nri9_Fkg5i07)
+![UmWhat.gif](https://lh3.google.com/u/0/d/1K9GUD7em6yE27Smy_6eQr_K0VdbNLfec)
+![OrbitalSpaghetti.gif](https://lh3.google.com/u/0/d/1bGDn5qfPbJjYBCS6Gk0xbfDXmlbAjIGj)
+![SlowAndControlled.gif](https://lh3.google.com/u/0/d/185Q34gyfJ_cwflDTzPRYBU9vUDNBsTH7)
+![ThirdPersonCrash.gif](https://lh3.google.com/u/0/d/1U1XwaMTIcBjZBs4bLHMBquxSR5KXUgoe)

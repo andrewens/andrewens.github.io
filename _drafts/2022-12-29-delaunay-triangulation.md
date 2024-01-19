@@ -8,4 +8,4 @@ tags: ["technical"]
 
 ## Gifs
 
-![PointsInTrangle.gif](https://drive.google.com/uc?id=1P_i0MtFj2r8uLFCbimL7NJ0ZFcjwaVpx&export=download)
+![PointsInTrangle.gif](https://lh3.google.com/u/0/d/1P_i0MtFj2r8uLFCbimL7NJ0ZFcjwaVpx)

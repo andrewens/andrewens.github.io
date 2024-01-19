@@ -2,7 +2,7 @@
 layout: post
 title: "Tunnel Wars V2"
 tags: ["ship crew rpg"]
-thumbnail: https://drive.google.com/uc?id=1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW&export=download
+thumbnail: https://lh3.google.com/u/0/d/1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW
 ---
 
 ## About
@@ -19,14 +19,14 @@ And as you can see, the map got simplified a lot as well. I also added some cust
 
 ## Gifs
 
-![TheFloorIsALie.gif](https://drive.google.com/uc?id=1mCH8LSfsqNm-47QUCJpQ-tdP59_vti0j&export=download)
-![StrafeBackwardsNoFlag.gif](https://drive.google.com/uc?id=1KpZaSCUXc12GEiEwIM8jXCTwZDIvLh-n&export=download)
-![StrafeBackwards.gif](https://drive.google.com/uc?id=1VwgCc5-z1mYO0Xea6d2W1B-SeKgt6Xpc&export=download)
-![ShovelHitAnimation.gif](https://drive.google.com/uc?id=1o2TdA7OfdajBss7JwiWWDxDbLGcwXrpN&export=download)
-![ShotgunPointShovelDoesnt.gif](https://drive.google.com/uc?id=1zqTDuJaqzPY4RNmVTiEYK3e6cfoNIvbZ&export=download)
-![LadderWithoutAnimationsOrLooking.gif](https://drive.google.com/uc?id=1CYLLf7Vs1X62QnwUYFDg9QCpEBJ-C_DI&export=download)
-![LadderToggle.gif](https://drive.google.com/uc?id=1Fyx_d7qUk8rMrIh-mNFvxtRHrNhIUjUJ&export=download)
-![Ladder.gif](https://drive.google.com/uc?id=1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW&export=download)
-![JumpFromTopOfLadder.gif](https://drive.google.com/uc?id=1ptPsbY0bHEzKtvdaec_EDPu9TBAIJldA&export=download)
-![JumpFromSideOfLadder.gif](https://drive.google.com/uc?id=1vtNYqnQYwTpQ8PgpQtEMNwf8aZuzN8qJ&export=download)
-![CharacterLooksAtMouse.gif](https://drive.google.com/uc?id=1ioAoE1iT3CjJ6vE3TmUcnJSYx_rmy870&export=download)
+![TheFloorIsALie.gif](https://lh3.google.com/u/0/d/1mCH8LSfsqNm-47QUCJpQ-tdP59_vti0j)
+![StrafeBackwardsNoFlag.gif](https://lh3.google.com/u/0/d/1KpZaSCUXc12GEiEwIM8jXCTwZDIvLh-n)
+![StrafeBackwards.gif](https://lh3.google.com/u/0/d/1VwgCc5-z1mYO0Xea6d2W1B-SeKgt6Xpc)
+![ShovelHitAnimation.gif](https://lh3.google.com/u/0/d/1o2TdA7OfdajBss7JwiWWDxDbLGcwXrpN)
+![ShotgunPointShovelDoesnt.gif](https://lh3.google.com/u/0/d/1zqTDuJaqzPY4RNmVTiEYK3e6cfoNIvbZ)
+![LadderWithoutAnimationsOrLooking.gif](https://lh3.google.com/u/0/d/1CYLLf7Vs1X62QnwUYFDg9QCpEBJ-C_DI)
+![LadderToggle.gif](https://lh3.google.com/u/0/d/1Fyx_d7qUk8rMrIh-mNFvxtRHrNhIUjUJ)
+![Ladder.gif](https://lh3.google.com/u/0/d/1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW)
+![JumpFromTopOfLadder.gif](https://lh3.google.com/u/0/d/1ptPsbY0bHEzKtvdaec_EDPu9TBAIJldA)
+![JumpFromSideOfLadder.gif](https://lh3.google.com/u/0/d/1vtNYqnQYwTpQ8PgpQtEMNwf8aZuzN8qJ)
+![CharacterLooksAtMouse.gif](https://lh3.google.com/u/0/d/1ioAoE1iT3CjJ6vE3TmUcnJSYx_rmy870)

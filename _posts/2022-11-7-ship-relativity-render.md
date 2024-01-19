@@ -2,7 +2,7 @@
 layout: post
 title: "Ship relativity render"
 tags: ["ship crew rpg", "technical"]
-thumbnail: https://drive.google.com/uc?id=1oPqU6dxBJ3upJc6eBAqJGrlsp8FfnVTt&export=download
+thumbnail: https://lh3.google.com/u/0/d/1oPqU6dxBJ3upJc6eBAqJGrlsp8FfnVTt
 ---
 
 ## About
@@ -13,14 +13,14 @@ Whenever my character is inside the spaceship, the spaceship is not actually mov
 
 ## Gifs
 
-![FlyingFromInterior.gif](https://drive.google.com/uc?id=1RZu0PiC0SnjK_vAz_4cmvJ9_xDQ88SGA&export=download)
+![FlyingFromInterior.gif](https://lh3.google.com/u/0/d/1RZu0PiC0SnjK_vAz_4cmvJ9_xDQ88SGA)
 
 _The ship isn't moving -- the environment is._
 
-![WalkingAroundInterior.gif](https://drive.google.com/uc?id=1oPqU6dxBJ3upJc6eBAqJGrlsp8FfnVTt&export=download)
+![WalkingAroundInterior.gif](https://lh3.google.com/u/0/d/1oPqU6dxBJ3upJc6eBAqJGrlsp8FfnVTt)
 
 _You can walk around the inside without any centripetal acceleration or bugginess, even though you're "moving"._
 
-![SwitchingViews.gif](https://drive.google.com/uc?id=1cJCekYPYA00m_FMAAxHGp1zNJsWie10b&export=download)
+![SwitchingViews.gif](https://lh3.google.com/u/0/d/1cJCekYPYA00m_FMAAxHGp1zNJsWie10b)
 
 _Seamlessly swapping between interior & exterior (minimodel) environments. The minimodel is actually 10x smaller than the full-scale ship interior, and is also at a different position/orientation. Camera magic._

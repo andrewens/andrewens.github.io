@@ -2,7 +2,7 @@
 layout: post
 title: "In-game ROBLOX Lua editor"
 tags: ["education"]
-thumbnail: https://drive.google.com/uc?id=1aFy3q7u07UMPiNMXGIUtmVgcmRGYoY1B&export=download
+thumbnail: https://lh3.google.com/u/0/d/1aFy3q7u07UMPiNMXGIUtmVgcmRGYoY1B
 ---
 
 ## About
@@ -11,5 +11,5 @@ I made this in-game lua editor as part of a project to make game development mor
 
 ## Gifs
 
-![InstantCompletion.gif](https://drive.google.com/uc?id=1aFy3q7u07UMPiNMXGIUtmVgcmRGYoY1B&export=download)
-![InstantOutput.gif](https://drive.google.com/uc?id=1pM0-UdCf_2hqeR1Pc_G8Lj-dj3FgXqG9&export=download)
+![InstantCompletion.gif](https://lh3.google.com/u/0/d/1aFy3q7u07UMPiNMXGIUtmVgcmRGYoY1B)
+![InstantOutput.gif](https://lh3.google.com/u/0/d/1pM0-UdCf_2hqeR1Pc_G8Lj-dj3FgXqG9)

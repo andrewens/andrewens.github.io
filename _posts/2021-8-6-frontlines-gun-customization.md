@@ -2,7 +2,7 @@
 layout: post
 title: "Modular gun customization for Frontlines"
 tags: ["frontlines"]
-thumbnail: https://drive.google.com/uc?id=1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-&export=download
+thumbnail: https://lh3.google.com/u/0/d/1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-
 ---
 
 # About
@@ -22,42 +22,42 @@ Roact/Rodux were extremely helpful for making this happen.
 
 # Gifs
 
-![SwappingReceivers2.gif](https://drive.google.com/uc?id=17EpbA2o2o05WmKJyXwudoHUSW8AkYLBZ&export=download)
-![SwappingReceivers.gif](https://drive.google.com/uc?id=1eVHA1xLTl-MBDapMk3Y9F-H9qVMG6QCP&export=download)
-![PickingLoadout.gif](https://drive.google.com/uc?id=1SjbYeNm39laBgXUwB-Xd0foUVvIypKVx&export=download)
-![RandomizeLoadout2.gif](https://drive.google.com/uc?id=1JV0lvX2YyM5hLQYBJeTjSyxTsK92t7U_&export=download)
-![SelectingDifferentGuns.gif](https://drive.google.com/uc?id=196efZPJZRIXQR6ZBrCXljrDHxIExcap0&export=download)
-![RandomizeLoadout.gif](https://drive.google.com/uc?id=1z_9HaJWEKqx5mM_H2hDyPZ7akGCBvqR6&export=download)
-![CustomizingMultipleModules2.gif](https://drive.google.com/uc?id=1zZxafxk3k0lBsXjadnMP9Lxleb6DncKo&export=download)
-![CustomizingMultipleModules.gif](https://drive.google.com/uc?id=1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-&export=download)
-![RotatingGun.gif](https://drive.google.com/uc?id=1L6ABB6OOR43nOoYORsp61HrAacyTqIUk&export=download)
-![EditingHelicopter.gif](https://drive.google.com/uc?id=1Z_likIQMNrH3gFvbb-JTfda_2TM89N35&export=download)
+![SwappingReceivers2.gif](https://lh3.google.com/u/0/d/17EpbA2o2o05WmKJyXwudoHUSW8AkYLBZ)
+![SwappingReceivers.gif](https://lh3.google.com/u/0/d/1eVHA1xLTl-MBDapMk3Y9F-H9qVMG6QCP)
+![PickingLoadout.gif](https://lh3.google.com/u/0/d/1SjbYeNm39laBgXUwB-Xd0foUVvIypKVx)
+![RandomizeLoadout2.gif](https://lh3.google.com/u/0/d/1JV0lvX2YyM5hLQYBJeTjSyxTsK92t7U_)
+![SelectingDifferentGuns.gif](https://lh3.google.com/u/0/d/196efZPJZRIXQR6ZBrCXljrDHxIExcap0)
+![RandomizeLoadout.gif](https://lh3.google.com/u/0/d/1z_9HaJWEKqx5mM_H2hDyPZ7akGCBvqR6)
+![CustomizingMultipleModules2.gif](https://lh3.google.com/u/0/d/1zZxafxk3k0lBsXjadnMP9Lxleb6DncKo)
+![CustomizingMultipleModules.gif](https://lh3.google.com/u/0/d/1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-)
+![RotatingGun.gif](https://lh3.google.com/u/0/d/1L6ABB6OOR43nOoYORsp61HrAacyTqIUk)
+![EditingHelicopter.gif](https://lh3.google.com/u/0/d/1Z_likIQMNrH3gFvbb-JTfda_2TM89N35)
 
 The following gifs are previous iterations of the system shown above.
 
 # Gifs (prototyping with Roact, after accelerator)
 
-![GraphTraversal.gif](https://drive.google.com/uc?id=138XiGw0rScDvEJp35h5Sf9Oa3ZytlNJV&export=download)
-![ILoveRoact.gif](https://drive.google.com/uc?id=1kNzDQhheGrCrY1dU2FEaHn4ZacFxmDZ0&export=download)
-![NonClippedPrototypeUI.gif](https://drive.google.com/uc?id=1QwHkQdVJc-I7z8_B6ZH4jBWeDNCv38sK&export=download)
-![PrototypeUI2.gif](https://drive.google.com/uc?id=142-xrUtnD0la6_v0H7wBUmRw73e-zVvE&export=download)
-![PrototypeUI.gif](https://drive.google.com/uc?id=11wirQuGlCtlMjY3b1_MqyHxgFVdbN93B&export=download)
-![WeaponStatsGraph.gif](https://drive.google.com/uc?id=19IhOH0wxkRAh_gxwu9a8sNjhu3E19vXj&export=download)
-![PrototypeCustomizationEquipping.gif](https://drive.google.com/uc?id=1lIWowxYTGwKru1DBaGOwF87Xr9XHZwWH&export=download)
-![PrototypeCustomization4.gif](https://drive.google.com/uc?id=1WEAZQ6GcLOLR-ZiiL-h1NuRhAhM5Opck&export=download)
-![PrototypeCustomization3.gif](https://drive.google.com/uc?id=1hCyPm9_ZCqEgAi73R6zRgyxZQTGuKLMC&export=download)
-![PrototypeCustomization2.gif](https://drive.google.com/uc?id=1WvvJwOPhTO9nUhNjNDxY4L2QYVIMTjgI&export=download)
-![PrototypeCustomization.gif](https://drive.google.com/uc?id=1_lIEFq_ARV61myf4FQMhVap5XB9YjnRR&export=download)
+![GraphTraversal.gif](https://lh3.google.com/u/0/d/138XiGw0rScDvEJp35h5Sf9Oa3ZytlNJV)
+![ILoveRoact.gif](https://lh3.google.com/u/0/d/1kNzDQhheGrCrY1dU2FEaHn4ZacFxmDZ0)
+![NonClippedPrototypeUI.gif](https://lh3.google.com/u/0/d/1QwHkQdVJc-I7z8_B6ZH4jBWeDNCv38sK)
+![PrototypeUI2.gif](https://lh3.google.com/u/0/d/142-xrUtnD0la6_v0H7wBUmRw73e-zVvE)
+![PrototypeUI.gif](https://lh3.google.com/u/0/d/11wirQuGlCtlMjY3b1_MqyHxgFVdbN93B)
+![WeaponStatsGraph.gif](https://lh3.google.com/u/0/d/19IhOH0wxkRAh_gxwu9a8sNjhu3E19vXj)
+![PrototypeCustomizationEquipping.gif](https://lh3.google.com/u/0/d/1lIWowxYTGwKru1DBaGOwF87Xr9XHZwWH)
+![PrototypeCustomization4.gif](https://lh3.google.com/u/0/d/1WEAZQ6GcLOLR-ZiiL-h1NuRhAhM5Opck)
+![PrototypeCustomization3.gif](https://lh3.google.com/u/0/d/1hCyPm9_ZCqEgAi73R6zRgyxZQTGuKLMC)
+![PrototypeCustomization2.gif](https://lh3.google.com/u/0/d/1WvvJwOPhTO9nUhNjNDxY4L2QYVIMTjgI)
+![PrototypeCustomization.gif](https://lh3.google.com/u/0/d/1_lIEFq_ARV61myf4FQMhVap5XB9YjnRR)
 
 # Gifs (from during accelerator)
 
-![SelectMeleeWeapon.gif](https://drive.google.com/uc?id=1bYC_AkeWIK2Lm3R0SZNT63w9YtdspT5A&export=download)
-![PrototypeLoadouts.gif](https://drive.google.com/uc?id=1wK0ZsU6WM2SuzvYKs0InHZ-X1Qscz9dI&export=download)
-![PrototypeCustomization4.gif](https://drive.google.com/uc?id=1ys6DXArzroELLeVG8NdSVVO4hlF5tErW&export=download)
-![PrototypeCustomization3.gif](https://drive.google.com/uc?id=16DxJ6H-w-LZgamQzFZSaPGO1KIGD1tcH&export=download)
-![PrototypeCustomization2.gif](https://drive.google.com/uc?id=1m6UQTOIhAnOIEIuU5jlo6TA75cQj8BVZ&export=download)
-![PrototypeCustomization.gif](https://drive.google.com/uc?id=1eS95h8UlXuuL6Vg1jCm2emO0lIxrb-_b&export=download)
-![PrototypeModularCustomization.gif](https://drive.google.com/uc?id=19-iyzwbUpFyRyCYbZwLDKp7oleOtYqX3&export=download)
+![SelectMeleeWeapon.gif](https://lh3.google.com/u/0/d/1bYC_AkeWIK2Lm3R0SZNT63w9YtdspT5A)
+![PrototypeLoadouts.gif](https://lh3.google.com/u/0/d/1wK0ZsU6WM2SuzvYKs0InHZ-X1Qscz9dI)
+![PrototypeCustomization4.gif](https://lh3.google.com/u/0/d/1ys6DXArzroELLeVG8NdSVVO4hlF5tErW)
+![PrototypeCustomization3.gif](https://lh3.google.com/u/0/d/16DxJ6H-w-LZgamQzFZSaPGO1KIGD1tcH)
+![PrototypeCustomization2.gif](https://lh3.google.com/u/0/d/1m6UQTOIhAnOIEIuU5jlo6TA75cQj8BVZ)
+![PrototypeCustomization.gif](https://lh3.google.com/u/0/d/1eS95h8UlXuuL6Vg1jCm2emO0lIxrb-_b)
+![PrototypeModularCustomization.gif](https://lh3.google.com/u/0/d/19-iyzwbUpFyRyCYbZwLDKp7oleOtYqX3)
 
 
 
@@ -78,18 +78,18 @@ I was really proud of the plugin UI, though. The toggle buttons are SO SATISFYIN
 
 # Gifs
 
-![SpammingNickWithDesignChoices.gif](https://drive.google.com/uc?id=1eF4AGKPkKbBBVDQsVhesd72ChuqUw6yF&export=download)
+![SpammingNickWithDesignChoices.gif](https://lh3.google.com/u/0/d/1eF4AGKPkKbBBVDQsVhesd72ChuqUw6yF)
 
 I care a lot about getting software right, which is evident from this gif of me writing essays about design decisions to Nick, the main developer for Frontlines. 
 
 In retrospect, having to write that much about design decisions was a red flag that we didn't have a good development process set up. If we had been able to decide on a unified style & process for writing, testing, and evaluating code, then we wouldn't need to think that hard about design decisions and maybe work in smaller increments.
 
-![GeneratingBoilerPlate.gif](https://drive.google.com/uc?id=12o41i6uojujevUD54-F93-W0exhlTEho&export=download)
-![ConvertingFoldersToModels.gif](https://drive.google.com/uc?id=12O4oxDgxtEEegnLGqTj4QOaGu8R0Qr6F&export=download)
-![UploadCycleMessages.gif](https://drive.google.com/uc?id=101yzwumNVOi0iVvwoFt21t_INkvCNy-H&export=download)
-![UploadCycleBadDependencies.gif](https://drive.google.com/uc?id=1Z783d0xiKkj3QEhZ4CwjLIESQ0M31zzS&export=download)
-![UploadCycleFormattedIncorrectly.gif](https://drive.google.com/uc?id=1ZYecv_dE99SoWa3JzryUZvnZGapeuehP&export=download)
-![UploadCycleWithEnums3.gif](https://drive.google.com/uc?id=1ZA9ZsnlE492joYHWJBwU193V4BQPjCWy&export=download)
-![UploadCycleWithEnums2.gif](https://drive.google.com/uc?id=1TAvX23Ri0FLRbdkXvJ95Q6bZRb9xKiRA&export=download)
-![UploadCycleWithEnums.gif](https://drive.google.com/uc?id=1M126qnBkstOe1m2M6GSJGy60LSLQ4b_a&export=download)
-![UploadCycle.gif](https://drive.google.com/uc?id=1R8knfGJ2gAoARzo7GgMKrEWGbcAqAVr3&export=download)
+![GeneratingBoilerPlate.gif](https://lh3.google.com/u/0/d/12o41i6uojujevUD54-F93-W0exhlTEho)
+![ConvertingFoldersToModels.gif](https://lh3.google.com/u/0/d/12O4oxDgxtEEegnLGqTj4QOaGu8R0Qr6F)
+![UploadCycleMessages.gif](https://lh3.google.com/u/0/d/101yzwumNVOi0iVvwoFt21t_INkvCNy-H)
+![UploadCycleBadDependencies.gif](https://lh3.google.com/u/0/d/1Z783d0xiKkj3QEhZ4CwjLIESQ0M31zzS)
+![UploadCycleFormattedIncorrectly.gif](https://lh3.google.com/u/0/d/1ZYecv_dE99SoWa3JzryUZvnZGapeuehP)
+![UploadCycleWithEnums3.gif](https://lh3.google.com/u/0/d/1ZA9ZsnlE492joYHWJBwU193V4BQPjCWy)
+![UploadCycleWithEnums2.gif](https://lh3.google.com/u/0/d/1TAvX23Ri0FLRbdkXvJ95Q6bZRb9xKiRA)
+![UploadCycleWithEnums.gif](https://lh3.google.com/u/0/d/1M126qnBkstOe1m2M6GSJGy60LSLQ4b_a)
+![UploadCycle.gif](https://lh3.google.com/u/0/d/1R8knfGJ2gAoARzo7GgMKrEWGbcAqAVr3)

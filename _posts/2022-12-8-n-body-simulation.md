@@ -2,7 +2,7 @@
 layout: post
 title: "n-body gravity simulation"
 tags: ["ship crew rpg", "technical"]
-thumbnail: https://drive.google.com/uc?id=1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea&export=download
+thumbnail: https://lh3.google.com/u/0/d/1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea
 ---
 
 ## About
@@ -15,15 +15,15 @@ This allowed me to simulate several thousands of stars in ROBLOX. That won't sou
 
 I <3 gravity
 
-![n-body-sim-2.gif](https://drive.google.com/uc?id=1l3WazT1wBeXtzqT7U7fz5zdolPq2Nxvd&export=download)
-![n-body-sim-3.gif](https://drive.google.com/uc?id=1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea&export=download)
-![n-body-sim-1.gif](https://drive.google.com/uc?id=1neThe98FvFmVj2onkheD-EwuD8Rbf9i9&export=download)
-![n-body-sim-4.gif](https://drive.google.com/uc?id=12CZeH9ab3sqa8Th82On4q5qYajUuQh6J&export=download)
+![n-body-sim-2.gif](https://lh3.google.com/u/0/d/1l3WazT1wBeXtzqT7U7fz5zdolPq2Nxvd)
+![n-body-sim-3.gif](https://lh3.google.com/u/0/d/1WRy6BjQrOEoVzm9Z-AZ5e3T8lS9qKMea)
+![n-body-sim-1.gif](https://lh3.google.com/u/0/d/1neThe98FvFmVj2onkheD-EwuD8Rbf9i9)
+![n-body-sim-4.gif](https://lh3.google.com/u/0/d/12CZeH9ab3sqa8Th82On4q5qYajUuQh6J)
 
 These are actually naive n-body simulations (every star has gravitaitonal mass) but they're really cool so I wanted to include them
 
-![three-concentric-rings.gif](https://drive.google.com/uc?id=1BgmXlxUttBqOrPrMu-f-53EYw7Sd1wQs&export=download)
-![sick-n-body-rings.gif](https://drive.google.com/uc?id=12_sbIqHWFPhQHFmc4o2gwMYCavk76Cjr&export=download)
+![three-concentric-rings.gif](https://lh3.google.com/u/0/d/1BgmXlxUttBqOrPrMu-f-53EYw7Sd1wQs)
+![sick-n-body-rings.gif](https://lh3.google.com/u/0/d/12_sbIqHWFPhQHFmc4o2gwMYCavk76Cjr)
 
 
 <br><br>
@@ -66,51 +66,51 @@ The gist of the algorithm is that clusters of bodies can be approximated as a si
 
 > You can play/edit this demo on ROBLOX [here.](https://www.roblox.com/games/11391815266/Barnes-Hut-Gravity-Simulation)
 
-![moving-solar-system.gif](https://drive.google.com/uc?id=1Zm8hZwfWqMbZEaDSjfoGB-FbkJ1Lb9vX&export=download)
+![moving-solar-system.gif](https://lh3.google.com/u/0/d/1Zm8hZwfWqMbZEaDSjfoGB-FbkJ1Lb9vX)
 
 _The green boxes are the cells of the octree, the spatial partioning structure that makes this work_
 
 Of course, if you're too close to the cluster of objects like in this gif, then you would just calculate gravity between every pair of objects normally.
 
-![flinging-stars.gif](https://drive.google.com/uc?id=1AT6pdArDxMrSjl0W_Y5tNQC7DbsVakaZ&export=download)
+![flinging-stars.gif](https://lh3.google.com/u/0/d/1AT6pdArDxMrSjl0W_Y5tNQC7DbsVakaZ)
 
 _(there are no collision implemented in this demo)_
 
-![feeding-a-star.gif](https://drive.google.com/uc?id=13tWDzzfiA5VIKT21NNPMzKq6uuFXY4OM&export=download)
+![feeding-a-star.gif](https://lh3.google.com/u/0/d/13tWDzzfiA5VIKT21NNPMzKq6uuFXY4OM)
 
 _Octrees are finite in size -- the grey parts outline the edge of the octree._
 
 I don't have a gif showing it, but the stair-stepped, colored blocks change the distance at which the algorithm switches from high-precision calculations to approximating large swathes of points. The shorter the distance you start approximating at, the more efficient the algorithm is-- but the less precise it becomes.
 
-![building-asteroid-belt-1.gif](https://drive.google.com/uc?id=1xHjHjQGtKs6LgDasx6LqAYZV_tfCTJTa&export=download)
+![building-asteroid-belt-1.gif](https://lh3.google.com/u/0/d/1xHjHjQGtKs6LgDasx6LqAYZV_tfCTJTa)
 
 _The purple block sets approximation at the highest distance threshold, which is least efficient but most precise._
 
 Barnes-Hut works well because, when simulating gravity between galaxies, it is very common for spread-out clusters of stars to exist, which is the condition Barnes-Hut exploits.
 
-![building-asteroid-belt-2.gif](https://drive.google.com/uc?id=1XA3GxcTgnJT2thrMOUvubFZPN-2AwSXg&export=download)
+![building-asteroid-belt-2.gif](https://lh3.google.com/u/0/d/1XA3GxcTgnJT2thrMOUvubFZPN-2AwSXg)
 _There's a "sweet spot" distance from a gravitational center where bodies can orbit in a circular path_
 
-![building-asteroid-belt-3.gif](https://drive.google.com/uc?id=18kujD9jzTBfkTDS2cWb2H_m7CNb7hX1V&export=download)
+![building-asteroid-belt-3.gif](https://lh3.google.com/u/0/d/18kujD9jzTBfkTDS2cWb2H_m7CNb7hX1V)
 *Great success*
 
 ## More gifs
 
 I'm not gonna lie, it was really fun to play around with this tech demo.
 
-![planets-and-asteroids-orbiting-black-hole.gif](https://drive.google.com/uc?id=1AWdKbQbDHJpQ55XLCB7znbqd2_KDuYG7&export=download)
+![planets-and-asteroids-orbiting-black-hole.gif](https://lh3.google.com/u/0/d/1AWdKbQbDHJpQ55XLCB7znbqd2_KDuYG7)
 
 *I think I hit the rendering limit lol*
 
-![spamming-stars.gif](https://drive.google.com/uc?id=1lUBZbuzpYYLth3p48ysoV2sKA_rex-6D&export=download)
+![spamming-stars.gif](https://lh3.google.com/u/0/d/1lUBZbuzpYYLth3p48ysoV2sKA_rex-6D)
 
 *If you throw stars at a black hole you can fling it into outer space*
 
-![sucking-asteroids-into-gravity-well.gif](https://drive.google.com/uc?id=1N644WXq994yK0ocZiwNpslvXaVfPVPT6&export=download)
+![sucking-asteroids-into-gravity-well.gif](https://lh3.google.com/u/0/d/1N644WXq994yK0ocZiwNpslvXaVfPVPT6)
 
 *I made an asteroid machine gun and then sucked them all into a star*
 
-![shooting-asteroids-into-gravity-well.gif](https://drive.google.com/uc?id=1ubKJpTMJL-tfUVVE_ydUYQua_0yULKIY&export=download)
+![shooting-asteroids-into-gravity-well.gif](https://lh3.google.com/u/0/d/1ubKJpTMJL-tfUVVE_ydUYQua_0yULKIY)
 
 *And then if you shoot the asteroids at the star, they get flung really far*
 
@@ -133,15 +133,15 @@ In the context of the Barnes-Hut algorithm, a quadtree or octree allows us to ea
 
 > You can play/edit this demo on ROBLOX [here.](https://www.roblox.com/games/11326654961/Quadtree)
 
-![polished-quad-tree-1.gif](https://drive.google.com/uc?id=1oS3hc3Sscgsc0WTOp4wx6sWxU-liUHvI&export=download)
+![polished-quad-tree-1.gif](https://lh3.google.com/u/0/d/1oS3hc3Sscgsc0WTOp4wx6sWxU-liUHvI)
 
 _Each ball gets its own cell, generally speaking. Smaller cells are children of bigger cells._
 
-![polished-quad-tree-2.gif](https://drive.google.com/uc?id=1m7lxf_LtdKK7QlzxMbB5XZ96AHEDZY1P&export=download)
+![polished-quad-tree-2.gif](https://lh3.google.com/u/0/d/1m7lxf_LtdKK7QlzxMbB5XZ96AHEDZY1P)
 
 _The purple crystal erases the board_
 
-![polished-quad-tree-coincident-points.gif](https://drive.google.com/uc?id=1qzQyMY4pz4aDPHfNEj2N9_QLle42QN5z&export=download)
+![polished-quad-tree-coincident-points.gif](https://lh3.google.com/u/0/d/1qzQyMY4pz4aDPHfNEj2N9_QLle42QN5z)
 
 _Cell size has a minimum limit to avoid infinite recursion (and stack overflow) when coincident points are introduced._
 
@@ -151,20 +151,20 @@ This is an earlier version of the quadtree:
 
 (The points are randomly added)
 
-![slow-random-quad-tree-1.gif](https://drive.google.com/uc?id=1SBft1Ua-q9rJ31YMSNszjd0YgaKKgq0O&export=download)
-![slow-random-quad-tree.gif](https://drive.google.com/uc?id=1g2rDD6OpXD2Tc_fukNrqqbMIT2bZ5uWy&export=download)
+![slow-random-quad-tree-1.gif](https://lh3.google.com/u/0/d/1SBft1Ua-q9rJ31YMSNszjd0YgaKKgq0O)
+![slow-random-quad-tree.gif](https://lh3.google.com/u/0/d/1g2rDD6OpXD2Tc_fukNrqqbMIT2bZ5uWy)
 
 I experimented with implementing the quadtree as an array (similar to how one can implement a binary tree as an array). This gif visualizes where nodes are stored in the array:
 
-![quad-tree-as-an-array.gif](https://drive.google.com/uc?id=16VGHTndYTQJ5uOYaIvPzrcHeyTrbBBLr&export=download)
+![quad-tree-as-an-array.gif](https://lh3.google.com/u/0/d/16VGHTndYTQJ5uOYaIvPzrcHeyTrbBBLr)
 
 And these are 3D Octrees, so-called because they have eight octants instead of four quadrants.
 
-![random-oct-tree-1.gif](https://drive.google.com/uc?id=1IvPgBdtABHF2Rqet3Fsil7D6pnFcsPLN&export=download)
+![random-oct-tree-1.gif](https://lh3.google.com/u/0/d/1IvPgBdtABHF2Rqet3Fsil7D6pnFcsPLN)
 
 _Slow_
 
-![random-oct-tree-2.gif](https://drive.google.com/uc?id=1FBlE47uFKVKpIg7mN3GvJVLhY-lkh_UW&export=download)
+![random-oct-tree-2.gif](https://lh3.google.com/u/0/d/1FBlE47uFKVKpIg7mN3GvJVLhY-lkh_UW)
 
 _Speedy_
 
@@ -178,5 +178,5 @@ While playing with n-body gravity simulations, I found it difficult to construct
 
 ## Gifs
 
-![Bad.gif](https://drive.google.com/uc?id=1o3EE13ulGgg9FzSRhTJuSzBR7RIHP9V1&export=download)
-![Good.gif](https://drive.google.com/uc?id=1KwLXQFg0E7CUUQbeTkjS9qxRP8wvs8kC&export=download)
+![Bad.gif](https://lh3.google.com/u/0/d/1o3EE13ulGgg9FzSRhTJuSzBR7RIHP9V1)
+![Good.gif](https://lh3.google.com/u/0/d/1KwLXQFg0E7CUUQbeTkjS9qxRP8wvs8kC)

@@ -11,5 +11,5 @@ We had an extra day before the [2023 ROBLOX Game Jam]({% post_url 2023-1-27-assi
 
 ## Gifs
 
-![Buttons can have dependencies](https://drive.google.com/uc?export=view&id=1Uc1NmVwgJCAMLFVPwuv3_FvHHEaBYNXn)
-![Buttons can have positive or negative income](https://drive.google.com/uc?export=view&id=1ao1e_8AZIMKh-sSljkzR7rfj8fKmb9bQ)
+![Buttons can have dependencies](https://lh3.google.com/u/0/d/1Uc1NmVwgJCAMLFVPwuv3_FvHHEaBYNXn)
+![Buttons can have positive or negative income](https://lh3.google.com/u/0/d/1ao1e_8AZIMKh-sSljkzR7rfj8fKmb9bQ)

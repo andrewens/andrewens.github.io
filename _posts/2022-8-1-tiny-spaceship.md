@@ -2,15 +2,15 @@
 layout: post
 title: "Tiny Spaceship"
 tags: ["ship crew rpg"]
-thumbnail: https://drive.google.com/uc?id=17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL&export=download
+thumbnail: https://lh3.google.com/u/0/d/17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL
 ---
 
 # Gifs 
 
-![EscapingOrbitalPlane.gif](https://drive.google.com/uc?id=17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL&export=download)
-![OrbitingZorgon.gif](https://drive.google.com/uc?id=19KegD-bSem4LvaozgB-FIzpbQE5CJrdi&export=download)
-![EnteringMars.gif](https://drive.google.com/uc?id=1Og4B1bKKZ-lSlQbtmJQSlXn_sAXYl_6v&export=download)
-![WatchingSunSet.gif](https://drive.google.com/uc?id=1ncEa9NbWTtoRYwO2uLhmTDO0pjFEP7cl&export=download)
-![ExitingShipOnMars.gif](https://drive.google.com/uc?id=1rAUpTlZHgd2k4z_zsSQiDKyybx0eGnZq&export=download)
-![EnteringFarlaxAtmosphere.gif](https://drive.google.com/uc?id=1GxuprlerawxsBQaDOqLurKzAP7UtNQnh&export=download)
-![ExitingShipInSpace.gif](https://drive.google.com/uc?id=1cnx9GU5_GPNrmgYgL_U38FmCtsJdHrcL&export=download)
+![EscapingOrbitalPlane.gif](https://lh3.google.com/u/0/d/17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL)
+![OrbitingZorgon.gif](https://lh3.google.com/u/0/d/19KegD-bSem4LvaozgB-FIzpbQE5CJrdi)
+![EnteringMars.gif](https://lh3.google.com/u/0/d/1Og4B1bKKZ-lSlQbtmJQSlXn_sAXYl_6v)
+![WatchingSunSet.gif](https://lh3.google.com/u/0/d/1ncEa9NbWTtoRYwO2uLhmTDO0pjFEP7cl)
+![ExitingShipOnMars.gif](https://lh3.google.com/u/0/d/1rAUpTlZHgd2k4z_zsSQiDKyybx0eGnZq)
+![EnteringFarlaxAtmosphere.gif](https://lh3.google.com/u/0/d/1GxuprlerawxsBQaDOqLurKzAP7UtNQnh)
+![ExitingShipInSpace.gif](https://lh3.google.com/u/0/d/1cnx9GU5_GPNrmgYgL_U38FmCtsJdHrcL)

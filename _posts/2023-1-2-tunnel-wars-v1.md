@@ -2,7 +2,7 @@
 layout: post
 title: "Tunnel Wars V1"
 tags: ["ship crew rpg", "playtested"]
-thumbnail: https://drive.google.com/uc?id=14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8&export=download
+thumbnail: https://lh3.google.com/u/0/d/14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8
 ---
 
 ## About
@@ -20,17 +20,17 @@ I did playtest this with players -- but I unfortunately forgot to record gamepla
 
 IDK why there are no gifs of it, but the player also has a shotgun.
 
-![CapturingFlag.gif](https://drive.google.com/uc?id=1DWgo1UlZ-zQbUG0wpS7E_tY8JQGpM9pT&export=download)
-![Digging.gif](https://drive.google.com/uc?id=184Jolp5d3GPiyjZzZPSCjwlFcRBDRhtq&export=download)
-![DiggingToCenterOfEarth.gif](https://drive.google.com/uc?id=1CpaPo2QWnUAuO7XAXrYq7K3lIT9mhCtf&export=download)
+![CapturingFlag.gif](https://lh3.google.com/u/0/d/1DWgo1UlZ-zQbUG0wpS7E_tY8JQGpM9pT)
+![Digging.gif](https://lh3.google.com/u/0/d/184Jolp5d3GPiyjZzZPSCjwlFcRBDRhtq)
+![DiggingToCenterOfEarth.gif](https://lh3.google.com/u/0/d/1CpaPo2QWnUAuO7XAXrYq7K3lIT9mhCtf)
 
-![InTheBeginningThereWasCube.gif](https://drive.google.com/uc?id=1NhELYwSjds0n8hdfKhtt-WQTAzpZLcr9&export=download)
-![ShortcomingsOfRectangularTiles.gif](https://drive.google.com/uc?id=1z72FG1ddNUtMuGgj7sNFLJGmqcdvST1m&export=download)
-![Wait...ItsActuallyABall.gif](https://drive.google.com/uc?id=1zx0jBVFvWjwjSbKPfeV9_BCG0gbz-3uM&export=download)
-![Ummmm....gif](https://drive.google.com/uc?id=1CFsWwXNoySRn3FQYIa4cKlGQvvRYXpXP&export=download)
-![ShopLayout.gif](https://drive.google.com/uc?id=1_FwuHxbc-GsMWCn_tC5PeiBd5gncvyhX&export=download)
-![DiggingFromBase.gif](https://drive.google.com/uc?id=14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8&export=download)
+![InTheBeginningThereWasCube.gif](https://lh3.google.com/u/0/d/1NhELYwSjds0n8hdfKhtt-WQTAzpZLcr9)
+![ShortcomingsOfRectangularTiles.gif](https://lh3.google.com/u/0/d/1z72FG1ddNUtMuGgj7sNFLJGmqcdvST1m)
+![Wait...ItsActuallyABall.gif](https://lh3.google.com/u/0/d/1zx0jBVFvWjwjSbKPfeV9_BCG0gbz-3uM)
+![Ummmm....gif](https://lh3.google.com/u/0/d/1CFsWwXNoySRn3FQYIa4cKlGQvvRYXpXP)
+![ShopLayout.gif](https://lh3.google.com/u/0/d/1_FwuHxbc-GsMWCn_tC5PeiBd5gncvyhX)
+![DiggingFromBase.gif](https://lh3.google.com/u/0/d/14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8)
 
 
-![VolcanoEruption.gif](https://drive.google.com/uc?id=1mo7oohyk0r_EoLctvotxh5eT78MplaCM&export=download)
-![VolcanoLava.gif](https://drive.google.com/uc?id=1Bwrne_SHZOdkXZENkrisPGSoO4f0ZJfA&export=download)
+![VolcanoEruption.gif](https://lh3.google.com/u/0/d/1mo7oohyk0r_EoLctvotxh5eT78MplaCM)
+![VolcanoLava.gif](https://lh3.google.com/u/0/d/1Bwrne_SHZOdkXZENkrisPGSoO4f0ZJfA)

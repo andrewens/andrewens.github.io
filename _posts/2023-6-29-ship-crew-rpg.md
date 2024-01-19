@@ -2,7 +2,7 @@
 layout: post
 title: "Ship Crew RPG Proof of Concept"
 tags: ["ship crew rpg", "playtested"]
-thumbnail: https://drive.google.com/uc?id=1IbLL8la5pjgEC9Sgdezl5QbcImHzaKXM&export=download
+thumbnail: https://lh3.google.com/u/0/d/1IbLL8la5pjgEC9Sgdezl5QbcImHzaKXM
 ---
 
 ## About
@@ -27,19 +27,19 @@ Unforuntately, the only gameplay footage I recorded was the bugs :(
 
 (sometimes, in the proof of concept, you jump too high)
 
-![TooMuchBounce.gif](https://drive.google.com/uc?id=1IbLL8la5pjgEC9Sgdezl5QbcImHzaKXM&export=download)
+![TooMuchBounce.gif](https://lh3.google.com/u/0/d/1IbLL8la5pjgEC9Sgdezl5QbcImHzaKXM)
 
 (and the rendering breaks if someone dies inside of the ship)
 
-![RenderingBroke.gif](https://drive.google.com/uc?id=1uVbZjmb3HbYXAuIA0U1aHMijroer6ARu&export=download)
+![RenderingBroke.gif](https://lh3.google.com/u/0/d/1uVbZjmb3HbYXAuIA0U1aHMijroer6ARu)
 
 All of the remaining gifs are from development, in ROBLOX Studio.
 
-![TakeOffSequence.gif](https://drive.google.com/uc?id=13dykaHwTCutYxm6UwUF2gzV922qmX6Y-&export=download)
-![ShootingZombie.gif](https://drive.google.com/uc?id=1zqblABGNLuS7mrRQIHGhm8ayHmSLaKFW&export=download)
-![MissionVoting.gif](https://drive.google.com/uc?id=1phM4VviEaXGcgNEzRZIu4DjEPll4XsZb&export=download)
-![FlyingToMars.gif](https://drive.google.com/uc?id=10oB8yPBMlizhSfKjGms4M4a5CPm7L3mD&export=download)
-![DroppingCrateInZone.gif](https://drive.google.com/uc?id=1G15LgwjswMP6C_AlQmJrDJihy0zFh3Rz&export=download)
+![TakeOffSequence.gif](https://lh3.google.com/u/0/d/13dykaHwTCutYxm6UwUF2gzV922qmX6Y-)
+![ShootingZombie.gif](https://lh3.google.com/u/0/d/1zqblABGNLuS7mrRQIHGhm8ayHmSLaKFW)
+![MissionVoting.gif](https://lh3.google.com/u/0/d/1phM4VviEaXGcgNEzRZIu4DjEPll4XsZb)
+![FlyingToMars.gif](https://lh3.google.com/u/0/d/10oB8yPBMlizhSfKjGms4M4a5CPm7L3mD)
+![DroppingCrateInZone.gif](https://lh3.google.com/u/0/d/1G15LgwjswMP6C_AlQmJrDJihy0zFh3Rz)
 
 
 
@@ -70,13 +70,13 @@ You can also see some early attempts at a character controller with very rudimen
 
 ## Gifs
 
-![WorldSerialization.gif](https://drive.google.com/uc?id=1XFUlkxPZ69JTIuDE6WVZMuYjNl5l-okh&export=download)
-![WhoopsTooFastLol.gif](https://drive.google.com/uc?id=1E5t3ib6xavmeWuJgvOb9oz3KsOcFK256&export=download)
-![PixelPerfectFramesGif.gif](https://drive.google.com/uc?id=17Pej9uQh5ykwWsnPq6dbdIHpICIwOx8P&export=download)
-![OverlapTestsAreEasy.gif](https://drive.google.com/uc?id=1cew6lW27gMrPR1A7gPT0CF59iMYx7bD-&export=download)
-![LookMom1DCollisions!.gif](https://drive.google.com/uc?id=1WXlfN26wby-wWQIc6Z93lJyWsQPi79G1&export=download)
-![GiantBouncyBeachBall.gif](https://drive.google.com/uc?id=1g4qO9rNlHAhcC1JACJ008YCDSov7073t&export=download)
-![DynamicScreenSize.gif](https://drive.google.com/uc?id=1POaG-GYYWpq7ykUIF_psX8fst6ut6btw&export=download)
-![CollisionsAreSoHard.gif](https://drive.google.com/uc?id=1590_KJOER-5ENJoZ31egH5W6ZJKd2OEV&export=download)
-![BouncyPlanet.gif](https://drive.google.com/uc?id=1t-gUjJDkhYTdkOzhFZtg9t7efapWnaB2&export=download)
-![BouncyBeachBall.gif](https://drive.google.com/uc?id=11hVcrMu1A8rOI8gCM-EaS49W4wrFidCT&export=download)
+![WorldSerialization.gif](https://lh3.google.com/u/0/d/1XFUlkxPZ69JTIuDE6WVZMuYjNl5l-okh)
+![WhoopsTooFastLol.gif](https://lh3.google.com/u/0/d/1E5t3ib6xavmeWuJgvOb9oz3KsOcFK256)
+![PixelPerfectFramesGif.gif](https://lh3.google.com/u/0/d/17Pej9uQh5ykwWsnPq6dbdIHpICIwOx8P)
+![OverlapTestsAreEasy.gif](https://lh3.google.com/u/0/d/1cew6lW27gMrPR1A7gPT0CF59iMYx7bD-)
+![LookMom1DCollisions!.gif](https://lh3.google.com/u/0/d/1WXlfN26wby-wWQIc6Z93lJyWsQPi79G1)
+![GiantBouncyBeachBall.gif](https://lh3.google.com/u/0/d/1g4qO9rNlHAhcC1JACJ008YCDSov7073t)
+![DynamicScreenSize.gif](https://lh3.google.com/u/0/d/1POaG-GYYWpq7ykUIF_psX8fst6ut6btw)
+![CollisionsAreSoHard.gif](https://lh3.google.com/u/0/d/1590_KJOER-5ENJoZ31egH5W6ZJKd2OEV)
+![BouncyPlanet.gif](https://lh3.google.com/u/0/d/1t-gUjJDkhYTdkOzhFZtg9t7efapWnaB2)
+![BouncyBeachBall.gif](https://lh3.google.com/u/0/d/11hVcrMu1A8rOI8gCM-EaS49W4wrFidCT)
