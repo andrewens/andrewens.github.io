@@ -2,7 +2,7 @@
 layout: post
 title: "Undead Defense"
 tags: ["undead defense", "playtested"]
-thumbnail: https://lh3.google.com/u/0/d/1G06r-_7jLrSqBVqaVL1XeXANNhHSfGmc
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/LootingUMP45.gif
 ---
 
 # About
@@ -13,10 +13,10 @@ Undead Defense was the first game published by my company, Starfall Studios, in 
 
 I recorded these gifs recently. The gun recoil and "animation" mechanics were implemented using the 2019 ROBLOX physics constraints system. Recent updates to the ROBLOX physics engine have since broken my system. 
 
-![BuildingOilPumpjack.gif](https://lh3.google.com/u/0/d/1rr3xn91I8mSHSEW6AKVBopXgH11hjNO9)
-![LootingCrateDrop.gif](https://lh3.google.com/u/0/d/1p49JODQc4JbF_rUIRbbqWZ_9YAgDKbjp)
-![LootingUMP45.gif](https://lh3.google.com/u/0/d/1G06r-_7jLrSqBVqaVL1XeXANNhHSfGmc)
+![BuildingOilPumpjack.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/BuildingOilPumpjack.gif)
+![LootingCrateDrop.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/LootingCrateDrop.gif)
+![LootingUMP45.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/LootingUMP45.gif)
 ![ShootingDefenses.gif](https://lh3.google.com/u/0/d/1_Zt6gVdfxjJghTigC-LYysvi1naZbW7B)
-![BuildingDefenses.gif](https://lh3.google.com/u/0/d/1pmncHY3sKzjpPAD3hMmLpR1vlTS2BBmj)
+![BuildingDefenses.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/BuildingDefenses.gif)
 
 There's also a plane that flies over the map and drops supply crates, but I don't have a gif of it. The crates parachute to the ground and then spawn the best weapons in the game.
