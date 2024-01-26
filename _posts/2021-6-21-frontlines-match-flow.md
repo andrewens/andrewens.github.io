@@ -2,7 +2,7 @@
 layout: post
 title: "FPS User Interface"
 tags: ["frontlines"]
-thumbnail: https://lh3.google.com/u/0/d/16XIKUV3Q2RP8KpqB1wG2_c0P3gXARr6v
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/TempFrontlinesNeedsReorganization/DeployScreenPanning.gif
 ---
 
 # About
@@ -19,53 +19,53 @@ I used Rodux (Roblox equivalent of Redux.js) for managing the state, and I also 
 
 # Gifs
 
-![DeployScreenPanning.gif](https://lh3.google.com/u/0/d/16XIKUV3Q2RP8KpqB1wG2_c0P3gXARr6v)
-![TestingFLWithNick.gif](https://lh3.google.com/u/0/d/1d13oyN09LV7tEQDLpblZAJBc8NecotM1)
+![DeployScreenPanning.gif](https://storage.googleapis.com/test-bucket-24385982346/TempFrontlinesNeedsReorganization/DeployScreenPanning.gif)
+![TestingFLWithNick.gif](https://storage.googleapis.com/test-bucket-24385982346/MiscFrontlines/TestingFLWithNick.gif)
 
 *Glock animation bug. I was testing my killfeed and gameplay UI*
 
-![InGameLeaderboard.gif](https://lh3.google.com/u/0/d/1jYmc-6ClQ-x858plMCxGiTNcW5pJqQOg)
-![BrowsingReduxStateAtRunTime.gif](https://lh3.google.com/u/0/d/1yqhkwAxFb3kFjqrxu_SH0OatPDCkA___)
-![BuggyMapVoting.gif](https://lh3.google.com/u/0/d/1yJGQDMT3BSScYVg1C0iTERCdZG_J6maF)
-![InGameLeaderboardOverlay.gif](https://lh3.google.com/u/0/d/1Z4etG_LDlixeGuwMQgCTCsXnK81HfCL3)
-![MapVotingOnly.gif](https://lh3.google.com/u/0/d/1odwBbRzgGbvVlUN89aW2T6xuIKv2JNU5)
-![MapVotingAndLeaderboard.gif](https://lh3.google.com/u/0/d/1Ker3f_p_gp7BA-g8yKHxnM9d6d0q2Ntk)
-![TestingMatchFlow.gif](https://lh3.google.com/u/0/d/1h0KfMVjrh5P3c6OFHRiJY8CHn3I1MU-_)
-![TestingBackEndAtRunTime.gif](https://lh3.google.com/u/0/d/1P4txo8PzjlXrEVYSczdpVRcXmD1OZyzI)
+![InGameLeaderboard.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/InGameLeaderboard.gif)
+![BrowsingReduxStateAtRunTime.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/BrowsingReduxStateAtRunTime.gif)
+![BuggyMapVoting.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/BuggyMapVoting.gif)
+![InGameLeaderboardOverlay.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/InGameLeaderboard.gif)
+![MapVotingOnly.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/MapVotingOnly.gif)
+![MapVotingAndLeaderboard.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/MapVotingAndLeaderboard.gif)
+![TestingMatchFlow.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/TestingMatchFlow.gif)
+![TestingBackEndAtRunTime.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesMatchFlow/TestingBackEndAtRunTime.gif)
 
 # Even more Gifs
 
-![GalleryTest6.gif](https://lh3.google.com/u/0/d/1cJvMbnunrbaMAHXVGbXuR3mZEHxS8w1h)
-![GalleryTest5.gif](https://lh3.google.com/u/0/d/1Iri8XQRO-7KjCSwjaS7A9_69-lcQBVLh)
-![GalleryTest4.gif](https://lh3.google.com/u/0/d/1XWam7n6NhV2oGpQ65vUKCv7JYTHF5vhv)
-![GalleryTest3.gif](https://lh3.google.com/u/0/d/1AIgQ8gOxxHMLj169Le6QASXZelaA0tky)
-![GalleryTest2.gif](https://lh3.google.com/u/0/d/1uW9LypljuleVSC1fQ2yP_qf1HnobcDaQ)
-![GalleryTest1.gif](https://lh3.google.com/u/0/d/1EusciAeDg2NHBJBb9PVpN4p66VRFg6l1)
-![ProgressBarTest3.gif](https://lh3.google.com/u/0/d/1rdU0FoCl6Yqyc1GucjbVLg0XUJN6UPXP)
-![ProgressBarTest2.gif](https://lh3.google.com/u/0/d/1gCvgODQ9wppMBVSZ5A9-c_O3p89xvTIh)
-![ProgressBarTest1.gif](https://lh3.google.com/u/0/d/18vQzd9nYLGm7qFvhv9qYILite32yDt_6)
-![WaitingForPlayers.gif](https://lh3.google.com/u/0/d/1NEIyjzaLybzBKd9NZiH_TFcfpoT-NLbq)
-![ButtonClickAnimation.gif](https://lh3.google.com/u/0/d/1CxPRA0p8bbWqR3-cZ73usTcccycJjWv-)
-![ButtonHoverAnimation.gif](https://lh3.google.com/u/0/d/11I_A5Ommt5qZKLk56KkyhTqdb1CWDIly)
-![BuggyDeployButtonAnimation.gif](https://lh3.google.com/u/0/d/15cwhmFiZV8BrAOlwcSa42J65wOXdt2W0)
-![MapLoadingScreen.gif](https://lh3.google.com/u/0/d/1KxndhaeDBGJpM2GgDJEujh9f4mB5J6-b)
+![GalleryTest6.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest6.gif)
+![GalleryTest5.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest5.gif)
+![GalleryTest4.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest4.gif)
+![GalleryTest3.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest3.gif)
+![GalleryTest2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest2.gif)
+![GalleryTest1.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/GalleryTest1.gif)
+![ProgressBarTest3.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/ProgressBarTest3.gif)
+![ProgressBarTest2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/ProgressBarTest2.gif)
+![ProgressBarTest1.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/ProgressBarTest1.gif)
+![WaitingForPlayers.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/WaitingForPlayers.gif)
+![ButtonClickAnimation.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/ButtonClickAnimation.gif)
+![ButtonHoverAnimation.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/ButtonHoverAnimation.gif)
+![BuggyDeployButtonAnimation.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/BuggyDeployButtonAnimation.gif)
+![MapLoadingScreen.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesFrontend/MapLoadingScreen.gif)
 
 
 # And even more gifs
 
-![DebuggingInGame2.gif](https://lh3.google.com/u/0/d/1Uwi49aM_IrGPhlWMSSHBhgtfBqDG2hrY)
+![DebuggingInGame2.gif](https://storage.googleapis.com/test-bucket-24385982346/MiscFrontlines/DebuggingInGame2.gif)
 
 *SO MANY ERRORS... from Nick's code ;^)*
 
-![DebuggingInGame.gif](https://lh3.google.com/u/0/d/1WqbgJHBP4EbA6oejqd1jY28qig17LzQL)
+![DebuggingInGame.gif](https://storage.googleapis.com/test-bucket-24385982346/MiscFrontlines/DebuggingInGame.gif)
 
 *I think we were looking for a memory leak?*
 
-![FrontlinesMapFlyThrough2.gif](https://lh3.google.com/u/0/d/1NFNc2QexucchI95rtsBc1z0EB5UwVXFj)
+![FrontlinesMapFlyThrough2.gif](https://storage.googleapis.com/test-bucket-24385982346/MiscFrontlines/FrontlinesMapFlyThrough2.gif)
 
 *The modelers were so talented*
 
-![FrontlinesMapFlyThrough1.gif](https://lh3.google.com/u/0/d/12jgy3CQp8wM2IVsBEV3tDZ9uIga28Pkb)
+![FrontlinesMapFlyThrough1.gif](https://storage.googleapis.com/test-bucket-24385982346/MiscFrontlines/FrontlinesMapFlyThrough1.gif)
 
 
 <br><br>
@@ -81,18 +81,18 @@ Later I had to normalize the capturing power of a teammate such that if every pl
 If I remember correctly, the circular progress indicator used a ROBLOX UI feature called Gradients for the transparency, but that required creating two halves for the circle. If you look closely, when the capture point progress is completed, there's still a small gap left before it resets, which I believe was due to there actually being two halves of the circle + clipping.
 
 # Gifs
-![CapturePoint14.gif](https://lh3.google.com/u/0/d/1zihoZ43fODMPFHD5Az0YCQNNjV2C3SwR)
-![CapturePoint13.gif](https://lh3.google.com/u/0/d/1CF2vkpgBCt-ogJGal-CXz1FB-iGNPuDe)
-![SmallCapturePoint.gif](https://lh3.google.com/u/0/d/1TuAhelFw3aYOrQU0GFnRSqbGJVshN_I8)
-![CapturePoint12.gif](https://lh3.google.com/u/0/d/1VOfno2scpmM2gHfIYoyS2sP3y4uIaW0r)
-![CapturePoint11.gif](https://lh3.google.com/u/0/d/16L9t1bXkBvbOI2pWVx6zCCDEyi4wY9ig)
-![CapturePoint10.gif](https://lh3.google.com/u/0/d/16F8Tb7qifSM-3LtnsgjRInpXtl_BQYYa)
-![CapturePoint9.gif](https://lh3.google.com/u/0/d/1cbYGMWd_QcIlgAgFsT25Op8GS5SruB41)
-![CapturePoint8.gif](https://lh3.google.com/u/0/d/1-4zC_tY4lMyQ99PS2IwQ0NHPb-Eozw4N)
-![CapturePoint7.gif](https://lh3.google.com/u/0/d/1xhkZ08UZKe5fMPO0ZhKFkzsg-MGu6gNM)
-![CapturePoint6.gif](https://lh3.google.com/u/0/d/1yjybXDG_KutbT1PbUanhGk1ArJUuiT4_)
-![CapturePoint5.gif](https://lh3.google.com/u/0/d/17vADy6GvQAyBp0alZon4b44nE6zoa8KS)
-![CapturePoint4.gif](https://lh3.google.com/u/0/d/16doLrKALkwoou72MFY4TkQkgn5j9KIjs)
-![CapturePoint3.gif](https://lh3.google.com/u/0/d/1FP17-L9FiP4Agjc55zw1l2FjuIPHpIgR)
-![CapturePoint2.gif](https://lh3.google.com/u/0/d/11Onknu3ZcKB0tnAFg_8WXS9SoEEGP1Wr)
-![CapturePoint1.gif](https://lh3.google.com/u/0/d/1wWOQ0RUzT5P3FPD0f1GDUGkaLkvE55r4)
+![CapturePoint14.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint14.gif)
+![CapturePoint13.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint13.gif)
+![SmallCapturePoint.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/SmallCapturePoint.gif)
+![CapturePoint12.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint12.gif)
+![CapturePoint11.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint11.gif)
+![CapturePoint10.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint10.gif)
+![CapturePoint9.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint9.gif)
+![CapturePoint8.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint8.gif)
+![CapturePoint7.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint7.gif)
+![CapturePoint6.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint6.gif)
+![CapturePoint5.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint5.gif)
+![CapturePoint4.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint4.gif)
+![CapturePoint3.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint3.gif)
+![CapturePoint2.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint2.gif)
+![CapturePoint1.gif](https://storage.googleapis.com/test-bucket-24385982346/CapturePointLogic/CapturePoint1.gif)
