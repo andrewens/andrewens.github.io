@@ -16,7 +16,7 @@ I recorded these gifs recently. The gun recoil and "animation" mechanics were im
 ![BuildingOilPumpjack.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/BuildingOilPumpjack.gif)
 ![LootingCrateDrop.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/LootingCrateDrop.gif)
 ![LootingUMP45.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/LootingUMP45.gif)
-![ShootingDefenses.gif](https://lh3.google.com/u/0/d/1_Zt6gVdfxjJghTigC-LYysvi1naZbW7B)
+![ShootingDefenses.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/ShootingDefenses.gif)
 ![BuildingDefenses.gif](https://storage.googleapis.com/test-bucket-24385982346/UndeadDefense/BuildingDefenses.gif)
 
 There's also a plane that flies over the map and drops supply crates, but I don't have a gif of it. The crates parachute to the ground and then spawn the best weapons in the game.
