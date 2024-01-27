@@ -2,7 +2,7 @@
 layout: post
 title: "walk on a round 3D planet with gravity"
 tags: ["ship crew rpg", "technical"]
-thumbnail: https://lh3.google.com/u/0/d/1akeX-oG1AH83jLLMTeteLgSYASfd3qSw
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/FreeCharacterRotation.gif
 ---
 
 ## About
@@ -19,25 +19,24 @@ Then, the character's movement and orientation are defined in terms of that tang
 
 ## Gifs
 
-![FreeCharacterRotation.gif](https://lh3.google.com/u/0/d/1akeX-oG1AH83jLLMTeteLgSYASfd3qSw)
+![FreeCharacterRotation.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/FreeCharacterRotation.gif)
 
 _Final iteration._
 
-![MouseLock.gif](https://lh3.google.com/u/0/d/1-Wr2Mp6EcNM8XJOpZJIikkzmdUKpPEFi)
+![MouseLock.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/MouseLock.gif)
 _A mouselock variant_
 
-![NoCharacterTurning.gif](https://lh3.google.com/u/0/d/1fZReXyNJWfFbwKg4Hn2qfR_UVRPzTo3M)
+![NoCharacterTurning.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/NoCharacterTurning.gif)
 
 _I had to manually make the character face in the direction of the camera. This is what it looked like before I did that._
 
-![FailedAttemptNo2.gif](https://lh3.google.com/u/0/d/1eCVGx5luA16dqj2OQyK4IYQPavVy1M4w)
+![FailedAttemptNo2.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/FailedAttemptNo2.gif)
 
 _My first few attempts were completely nonsensical lol_
 
-![FailedAttemptNo1.gif](https://lh3.google.com/u/0/d/1SyYxegAbwPDq8uIu273ni1WpMzT3RpRH)
+![FailedAttemptNo1.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/FailedAttemptNo1.gif)
 
 _This is what my first attempt looked like_
-
 
 <br><br>
 
@@ -49,11 +48,11 @@ I've done more work since this demo [here.]({% post_url 2023-5-7-2d-physics-engi
 
 ## Gifs
 
-![FastAndUnstable.gif](https://lh3.google.com/u/0/d/1qo3hpMMxLUeSAf2H0c4kXeIGSEdYj9Er)
-![MirrorCollision.gif](https://lh3.google.com/u/0/d/1EDct366aKZvuwLHATpe_bZ7v1NYSROF8)
-![SecondPersonCrash.gif](https://lh3.google.com/u/0/d/1FpD9jhyDlRcLabEcQ7yT1O80MaWQefmG)
-![SatisfyingCompleteCircle.gif](https://lh3.google.com/u/0/d/1tYHLSL8dFjVDwXxZQ_g1Nri9_Fkg5i07)
-![UmWhat.gif](https://lh3.google.com/u/0/d/1K9GUD7em6yE27Smy_6eQr_K0VdbNLfec)
-![OrbitalSpaghetti.gif](https://lh3.google.com/u/0/d/1bGDn5qfPbJjYBCS6Gk0xbfDXmlbAjIGj)
-![SlowAndControlled.gif](https://lh3.google.com/u/0/d/185Q34gyfJ_cwflDTzPRYBU9vUDNBsTH7)
-![ThirdPersonCrash.gif](https://lh3.google.com/u/0/d/1U1XwaMTIcBjZBs4bLHMBquxSR5KXUgoe)
+![FastAndUnstable.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/FastAndUnstable.gif)
+![MirrorCollision.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/MirrorCollision.gif)
+![SecondPersonCrash.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/SecondPersonCrash.gif)
+![SatisfyingCompleteCircle.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/SatisfyingCompleteCircle.gif)
+![UmWhat.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/UmWhat.gif)
+![OrbitalSpaghetti.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/OrbitalSpaghetti.gif)
+![SlowAndControlled.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/SlowAndControlled.gif)
+![ThirdPersonCrash.gif](https://storage.googleapis.com/test-bucket-24385982346/OrbitalController/ThirdPersonCrash.gif)
