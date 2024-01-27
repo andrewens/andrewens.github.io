@@ -2,7 +2,7 @@
 layout: post
 title: "Modular gun customization for Frontlines"
 tags: ["frontlines"]
-thumbnail: https://lh3.google.com/u/0/d/1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/CustomizingMultipleModules.gif
 ---
 
 # About
@@ -22,42 +22,42 @@ Roact/Rodux were extremely helpful for making this happen.
 
 # Gifs
 
-![SwappingReceivers2.gif](https://lh3.google.com/u/0/d/17EpbA2o2o05WmKJyXwudoHUSW8AkYLBZ)
-![SwappingReceivers.gif](https://lh3.google.com/u/0/d/1eVHA1xLTl-MBDapMk3Y9F-H9qVMG6QCP)
-![PickingLoadout.gif](https://lh3.google.com/u/0/d/1SjbYeNm39laBgXUwB-Xd0foUVvIypKVx)
-![RandomizeLoadout2.gif](https://lh3.google.com/u/0/d/1JV0lvX2YyM5hLQYBJeTjSyxTsK92t7U_)
-![SelectingDifferentGuns.gif](https://lh3.google.com/u/0/d/196efZPJZRIXQR6ZBrCXljrDHxIExcap0)
-![RandomizeLoadout.gif](https://lh3.google.com/u/0/d/1z_9HaJWEKqx5mM_H2hDyPZ7akGCBvqR6)
-![CustomizingMultipleModules2.gif](https://lh3.google.com/u/0/d/1zZxafxk3k0lBsXjadnMP9Lxleb6DncKo)
-![CustomizingMultipleModules.gif](https://lh3.google.com/u/0/d/1yFpAxmmUnesMmyVXmByl5ZbEMNkuJx6-)
-![RotatingGun.gif](https://lh3.google.com/u/0/d/1L6ABB6OOR43nOoYORsp61HrAacyTqIUk)
-![EditingHelicopter.gif](https://lh3.google.com/u/0/d/1Z_likIQMNrH3gFvbb-JTfda_2TM89N35)
+![SwappingReceivers2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/SwappingReceivers2.gif)
+![SwappingReceivers.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/SwappingReceivers.gif)
+![PickingLoadout.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/PickingLoadout.gif)
+![RandomizeLoadout2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/RandomizeLoadout2.gif)
+![SelectingDifferentGuns.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/SelectingDifferentGuns.gif)
+![RandomizeLoadout.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/RandomizeLoadout.gif)
+![CustomizingMultipleModules2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/CustomizingMultipleModules2.gif)
+![CustomizingMultipleModules.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/CustomizingMultipleModules.gif)
+![RotatingGun.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomization/RotatingGun.gif)
+![EditingHelicopter.gif](https://storage.googleapis.com/test-bucket-24385982346/TempFrontlinesNeedsReorganization/EditingHelicopter.gif)
 
 The following gifs are previous iterations of the system shown above.
 
 # Gifs (prototyping with Roact, after accelerator)
 
-![GraphTraversal.gif](https://lh3.google.com/u/0/d/138XiGw0rScDvEJp35h5Sf9Oa3ZytlNJV)
-![ILoveRoact.gif](https://lh3.google.com/u/0/d/1kNzDQhheGrCrY1dU2FEaHn4ZacFxmDZ0)
-![NonClippedPrototypeUI.gif](https://lh3.google.com/u/0/d/1QwHkQdVJc-I7z8_B6ZH4jBWeDNCv38sK)
-![PrototypeUI2.gif](https://lh3.google.com/u/0/d/142-xrUtnD0la6_v0H7wBUmRw73e-zVvE)
-![PrototypeUI.gif](https://lh3.google.com/u/0/d/11wirQuGlCtlMjY3b1_MqyHxgFVdbN93B)
-![WeaponStatsGraph.gif](https://lh3.google.com/u/0/d/19IhOH0wxkRAh_gxwu9a8sNjhu3E19vXj)
-![PrototypeCustomizationEquipping.gif](https://lh3.google.com/u/0/d/1lIWowxYTGwKru1DBaGOwF87Xr9XHZwWH)
-![PrototypeCustomization4.gif](https://lh3.google.com/u/0/d/1WEAZQ6GcLOLR-ZiiL-h1NuRhAhM5Opck)
-![PrototypeCustomization3.gif](https://lh3.google.com/u/0/d/1hCyPm9_ZCqEgAi73R6zRgyxZQTGuKLMC)
-![PrototypeCustomization2.gif](https://lh3.google.com/u/0/d/1WvvJwOPhTO9nUhNjNDxY4L2QYVIMTjgI)
-![PrototypeCustomization.gif](https://lh3.google.com/u/0/d/1_lIEFq_ARV61myf4FQMhVap5XB9YjnRR)
+![GraphTraversal.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/GraphTraversal.gif)
+![ILoveRoact.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/ILoveRoact.gif)
+![NonClippedPrototypeUI.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/NonClippedPrototypeUI.gif)
+![PrototypeUI2.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeUI2.gif)
+![PrototypeUI.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeUI.gif)
+![WeaponStatsGraph.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/WeaponStatsGraph.gif)
+![PrototypeCustomizationEquipping.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeCustomizationEquipping.gif)
+![PrototypeCustomization4.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeCustomization4.gif)
+![PrototypeCustomization3.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeCustomization3.gif)
+![PrototypeCustomization2.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeCustomization2.gif)
+![PrototypeCustomization.gif](https://storage.googleapis.com/test-bucket-24385982346/PrototypeCustomizationWithRoact/PrototypeCustomization.gif)
 
 # Gifs (from during accelerator)
 
-![SelectMeleeWeapon.gif](https://lh3.google.com/u/0/d/1bYC_AkeWIK2Lm3R0SZNT63w9YtdspT5A)
-![PrototypeLoadouts.gif](https://lh3.google.com/u/0/d/1wK0ZsU6WM2SuzvYKs0InHZ-X1Qscz9dI)
-![PrototypeCustomization4.gif](https://lh3.google.com/u/0/d/1ys6DXArzroELLeVG8NdSVVO4hlF5tErW)
-![PrototypeCustomization3.gif](https://lh3.google.com/u/0/d/16DxJ6H-w-LZgamQzFZSaPGO1KIGD1tcH)
-![PrototypeCustomization2.gif](https://lh3.google.com/u/0/d/1m6UQTOIhAnOIEIuU5jlo6TA75cQj8BVZ)
-![PrototypeCustomization.gif](https://lh3.google.com/u/0/d/1eS95h8UlXuuL6Vg1jCm2emO0lIxrb-_b)
-![PrototypeModularCustomization.gif](https://lh3.google.com/u/0/d/19-iyzwbUpFyRyCYbZwLDKp7oleOtYqX3)
+![SelectMeleeWeapon.gif](https://storage.googleapis.com/test-bucket-24385982346/TempFrontlinesNeedsReorganization/SelectMeleeWeapon.gif)
+![PrototypeLoadouts.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeLoadouts.gif)
+![PrototypeCustomization4.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeCustomization4.gif)
+![PrototypeCustomization3.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeCustomization3.gif)
+![PrototypeCustomization2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeCustomization2.gif)
+![PrototypeCustomization.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeCustomization.gif)
+![PrototypeModularCustomization.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesAcceleratorCustomization/PrototypeModularCustomization.gif)
 
 
 
@@ -78,18 +78,18 @@ I was really proud of the plugin UI, though. The toggle buttons are SO SATISFYIN
 
 # Gifs
 
-![SpammingNickWithDesignChoices.gif](https://lh3.google.com/u/0/d/1eF4AGKPkKbBBVDQsVhesd72ChuqUw6yF)
+![SpammingNickWithDesignChoices.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/SpammingNickWithDesignChoices.gif)
 
 I care a lot about getting software right, which is evident from this gif of me writing essays about design decisions to Nick, the main developer for Frontlines. 
 
 In retrospect, having to write that much about design decisions was a red flag that we didn't have a good development process set up. If we had been able to decide on a unified style & process for writing, testing, and evaluating code, then we wouldn't need to think that hard about design decisions and maybe work in smaller increments.
 
-![GeneratingBoilerPlate.gif](https://lh3.google.com/u/0/d/12o41i6uojujevUD54-F93-W0exhlTEho)
-![ConvertingFoldersToModels.gif](https://lh3.google.com/u/0/d/12O4oxDgxtEEegnLGqTj4QOaGu8R0Qr6F)
-![UploadCycleMessages.gif](https://lh3.google.com/u/0/d/101yzwumNVOi0iVvwoFt21t_INkvCNy-H)
-![UploadCycleBadDependencies.gif](https://lh3.google.com/u/0/d/1Z783d0xiKkj3QEhZ4CwjLIESQ0M31zzS)
-![UploadCycleFormattedIncorrectly.gif](https://lh3.google.com/u/0/d/1ZYecv_dE99SoWa3JzryUZvnZGapeuehP)
-![UploadCycleWithEnums3.gif](https://lh3.google.com/u/0/d/1ZA9ZsnlE492joYHWJBwU193V4BQPjCWy)
-![UploadCycleWithEnums2.gif](https://lh3.google.com/u/0/d/1TAvX23Ri0FLRbdkXvJ95Q6bZRb9xKiRA)
-![UploadCycleWithEnums.gif](https://lh3.google.com/u/0/d/1M126qnBkstOe1m2M6GSJGy60LSLQ4b_a)
-![UploadCycle.gif](https://lh3.google.com/u/0/d/1R8knfGJ2gAoARzo7GgMKrEWGbcAqAVr3)
+![GeneratingBoilerPlate.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/GeneratingBoilerPlate.gif)
+![ConvertingFoldersToModels.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/ConvertingFoldersToModels.gif)
+![UploadCycleMessages.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleMessages.gif)
+![UploadCycleBadDependencies.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleBadDependencies.gif)
+![UploadCycleFormattedIncorrectly.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleFormattedIncorrectly.gif)
+![UploadCycleWithEnums3.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleWithEnums3.gif)
+![UploadCycleWithEnums2.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleWithEnums2.gif)
+![UploadCycleWithEnums.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycleWithEnums.gif)
+![UploadCycle.gif](https://storage.googleapis.com/test-bucket-24385982346/FrontlinesCustomizationPlugin/Plugin/UploadCycle.gif)
