@@ -2,15 +2,15 @@
 layout: post
 title: "Tiny Spaceship"
 tags: ["ship crew rpg"]
-thumbnail: https://lh3.google.com/u/0/d/17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/EscapingOrbitalPlane.gif
 ---
 
 # Gifs 
 
-![EscapingOrbitalPlane.gif](https://lh3.google.com/u/0/d/17BW7bwoaR_SeOmeNKlUkIgT6-v-wISIL)
-![OrbitingZorgon.gif](https://lh3.google.com/u/0/d/19KegD-bSem4LvaozgB-FIzpbQE5CJrdi)
-![EnteringMars.gif](https://lh3.google.com/u/0/d/1Og4B1bKKZ-lSlQbtmJQSlXn_sAXYl_6v)
-![WatchingSunSet.gif](https://lh3.google.com/u/0/d/1ncEa9NbWTtoRYwO2uLhmTDO0pjFEP7cl)
-![ExitingShipOnMars.gif](https://lh3.google.com/u/0/d/1rAUpTlZHgd2k4z_zsSQiDKyybx0eGnZq)
-![EnteringFarlaxAtmosphere.gif](https://lh3.google.com/u/0/d/1GxuprlerawxsBQaDOqLurKzAP7UtNQnh)
-![ExitingShipInSpace.gif](https://lh3.google.com/u/0/d/1cnx9GU5_GPNrmgYgL_U38FmCtsJdHrcL)
+![EscapingOrbitalPlane.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/EscapingOrbitalPlane.gif)
+![OrbitingZorgon.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/OrbitingZorgon.gif)
+![EnteringMars.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/EnteringMars.gif)
+![WatchingSunSet.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/WatchingSunSet.gif)
+![ExitingShipOnMars.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/ExitingShipOnMars.gif)
+![EnteringFarlaxAtmosphere.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/EnteringFarlaxAtmosphere.gif)
+![ExitingShipInSpace.gif](https://storage.googleapis.com/test-bucket-24385982346/TinySpaceship/ExitingShipInSpace.gif)
