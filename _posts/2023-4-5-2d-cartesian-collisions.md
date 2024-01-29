@@ -2,7 +2,7 @@
 layout: post
 title: "2D Cartesian collisions"
 tags: ["ship crew rpg", "technical"]
-thumbnail: https://lh3.google.com/u/0/d/1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/WraparoundWorkingCartesianCollisions.gif
 ---
 
 ## About
@@ -11,8 +11,8 @@ While building [character collisions in 2D polar coordinates]({% post_url 2023-4
 
 ## Gifs
 
-![WraparoundWorkingCartesianCollisions.gif](https://lh3.google.com/u/0/d/1-HDtz1XowQcgN2_TEnba8T53CJjfcY2Y)
-![WorkingCartesianCollisions.gif](https://lh3.google.com/u/0/d/1pxuuY1LiAfSwT1eP385bTBM44pB0WkzU)
-![OverlapTest.gif](https://lh3.google.com/u/0/d/16-ZjVwsL_LLJHm60u6dbS8UgivcOA8y4)
-![CartesianCollisionModel2.gif](https://lh3.google.com/u/0/d/1M6eU7KT3vkJFDnJVI92TZ2oTqwYVCWSf)
-![CartesianCollisionModel1.gif](https://lh3.google.com/u/0/d/1IRT4OLrLRkg3F-SAvGyXfPtrZdW-X7vH)
+![WraparoundWorkingCartesianCollisions.gif](https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/WraparoundWorkingCartesianCollisions.gif)
+![WorkingCartesianCollisions.gif](https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/WorkingCartesianCollisions.gif)
+![OverlapTest.gif](https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/OverlapTest.gif)
+![CartesianCollisionModel2.gif](https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/CartesianCollisionModel2.gif)
+![CartesianCollisionModel1.gif](https://storage.googleapis.com/test-bucket-24385982346/2d%20Cartesian%20Collisions/CartesianCollisionModel1.gif)
