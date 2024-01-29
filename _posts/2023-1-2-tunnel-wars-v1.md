@@ -2,35 +2,33 @@
 layout: post
 title: "Tunnel Wars V1"
 tags: ["ship crew rpg", "playtested"]
-thumbnail: https://lh3.google.com/u/0/d/14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/DiggingFromBase.gif
 ---
 
 ## About
 
-I got sick of doing research for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) and I desperately wanted to put together a *game*. So I simplified a lot and decided to just remake the ROBLOX 2008 classic game, [The Underground War](https://www.roblox.com/games/189632/The-Underground-War) -- but in two dimensions, around a *round* planet. This is the result. 
+I got sick of doing research for [Ship Crew RPG]({% post_url 2023-6-29-ship-crew-rpg %}) and I desperately wanted to put together a _game_. So I simplified a lot and decided to just remake the ROBLOX 2008 classic game, [The Underground War](https://www.roblox.com/games/189632/The-Underground-War) -- but in two dimensions, around a _round_ planet. This is the result.
 
 Also, I added a volcano that eats blocks!
 
-I did playtest this with players -- but I unfortunately forgot to record gameplay footage :/ 
+I did playtest this with players -- but I unfortunately forgot to record gameplay footage :/
 
-*(I think I can add screenshots though... coming soon)*
-
+_(I think I can add screenshots though... coming soon)_
 
 ## Gifs
 
 IDK why there are no gifs of it, but the player also has a shotgun.
 
-![CapturingFlag.gif](https://lh3.google.com/u/0/d/1DWgo1UlZ-zQbUG0wpS7E_tY8JQGpM9pT)
-![Digging.gif](https://lh3.google.com/u/0/d/184Jolp5d3GPiyjZzZPSCjwlFcRBDRhtq)
-![DiggingToCenterOfEarth.gif](https://lh3.google.com/u/0/d/1CpaPo2QWnUAuO7XAXrYq7K3lIT9mhCtf)
+![CapturingFlag.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/CapturingFlag.gif)
+![Digging.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/Digging.gif)
+![DiggingToCenterOfEarth.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/DiggingToCenterOfEarth.gif)
 
-![InTheBeginningThereWasCube.gif](https://lh3.google.com/u/0/d/1NhELYwSjds0n8hdfKhtt-WQTAzpZLcr9)
-![ShortcomingsOfRectangularTiles.gif](https://lh3.google.com/u/0/d/1z72FG1ddNUtMuGgj7sNFLJGmqcdvST1m)
-![Wait...ItsActuallyABall.gif](https://lh3.google.com/u/0/d/1zx0jBVFvWjwjSbKPfeV9_BCG0gbz-3uM)
-![Ummmm....gif](https://lh3.google.com/u/0/d/1CFsWwXNoySRn3FQYIa4cKlGQvvRYXpXP)
-![ShopLayout.gif](https://lh3.google.com/u/0/d/1_FwuHxbc-GsMWCn_tC5PeiBd5gncvyhX)
-![DiggingFromBase.gif](https://lh3.google.com/u/0/d/14-UtiIY--jsWVgWp7lSnqy70M6vAHsb8)
+![InTheBeginningThereWasCube.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/InTheBeginningThereWasCube.gif)
+![ShortcomingsOfRectangularTiles.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/ShortcomingsOfRectangularTiles.gif)
+![Wait...ItsActuallyABall.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/Wait...ItsActuallyABall.gif)
+![Ummmm....gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/Ummmm....gif)
+![ShopLayout.gif](hhttps://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/ShopLayout.gif)
+![DiggingFromBase.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/DiggingFromBase.gif)
 
-
-![VolcanoEruption.gif](https://lh3.google.com/u/0/d/1mo7oohyk0r_EoLctvotxh5eT78MplaCM)
-![VolcanoLava.gif](https://lh3.google.com/u/0/d/1Bwrne_SHZOdkXZENkrisPGSoO4f0ZJfA)
+![VolcanoEruption.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/VolcanoEruption.gif)
+![VolcanoLava.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V1/VolcanoLava.gif)
