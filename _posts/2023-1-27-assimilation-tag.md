@@ -2,7 +2,7 @@
 layout: post
 title: "Assimilation Tag (2023 ROBLOX Internal Game Jam)"
 tags: ["roblox game jam 2023", "playtested"]
-thumbnail: https://lh3.google.com/u/0/d/147DsUpDU9fhoKFIzddEjt4c_HjSjpk4y
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/GameplayCharSelector.gif
 ---
 
 ## About
@@ -23,22 +23,22 @@ Thanks ROBLOX!
 
 ## Gifs
 
-![TestingWinCondition.gif](https://lh3.google.com/u/0/d/1lYiL9KEqRd80MipD2d7fgBRK_e8RvJiX)
-![PrototypeCharSelector.gif](https://lh3.google.com/u/0/d/1yn_8YTc7mBCk6DjDogfJ1EB-3J28B-ZH)
-![Processing80Characters.gif](https://lh3.google.com/u/0/d/1WywHpm2tnY_nYi9JhjhVMCfXqGvP5Jpm)
-![IDontFeelSoGoodDonkey.gif](https://lh3.google.com/u/0/d/1bJY2ba2qGI_W4dkgrAPpCb_mAKXZAGxL)
-![GatlingGun.gif](https://lh3.google.com/u/0/d/1tnKGf8hOZdXXiGlaMALZeCpfC22zDk15)
-![GameplayCharSelector.gif](https://lh3.google.com/u/0/d/147DsUpDU9fhoKFIzddEjt4c_HjSjpk4y)
-![GameOverManGameOver.gif](https://lh3.google.com/u/0/d/1zQ9_rUFRVZFITa5Z2p9EB-6imfB9uYAB)
-![DuelingIsSoDifficult.gif](https://lh3.google.com/u/0/d/1Jb5RcJbVcm6nl6-OkieW89etrGbuxbeW)
-![CharMorphWithCmdLine.gif](https://lh3.google.com/u/0/d/1theqR1z45B2ppCnteOMd-Mn95KTZMxuc)
-![CharMorphs.gif](https://lh3.google.com/u/0/d/1AWEfY-ZJzqmCgrvqDvJ0AKOgMAxmDiFm)
+![TestingWinCondition.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/TestingWinCondition.gif)
+![PrototypeCharSelector.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/PrototypeCharSelector.gif)
+![Processing80Characters.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/Processing80Characters.gif)
+![IDontFeelSoGoodDonkey.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/IDontFeelSoGoodDonkey.gif)
+![GatlingGun.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/GatlingGun.gif)
+![GameplayCharSelector.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/GameplayCharSelector.gif)
+![GameOverManGameOver.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/GameOverManGameOver.gif)
+![DuelingIsSoDifficult.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/DuelingIsSoDifficult.gif)
+![CharMorphWithCmdLine.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/CharMorphWithCmdLine.gif)
+![CharMorphs.gif](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/CharMorphs.gif)
 
-![RobloxPaidMeInRobux.png](https://lh3.google.com/u/0/d/1uRpilOCaulFmX5IqjTVi5avLPR1eYGgM)
+![RobloxPaidMeInRobux.png](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/RobloxPaidMeInRobux.png)
 _It's so surreal to be paid for contractual labor in robux_
 
-# Not gifs (will they render??)
+# Not gifs
 
-![AssimilationTagThumbnail.webp](https://lh3.google.com/u/0/d/112GIeiyUyIycff56KjP0G5YMx6gKN3fI)
-![AssimilationTagCharSelection2.webp](https://lh3.google.com/u/0/d/1-ff4dQ8Oa-3bdxcwTSEDlcA53mRGT9hy)
-![AssimilationTagCharacterSelection.webp](https://lh3.google.com/u/0/d/18z4xJlvhwQXOSN0xs5XeL8yMKNtyEMs-)
+![AssimilationTagThumbnail.webp](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/AssimilationTagThumbnail.webp)
+![AssimilationTagCharSelection2.webp](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/AssimilationTagCharSelection2.webp)
+![AssimilationTagCharacterSelection.webp](https://storage.googleapis.com/test-bucket-24385982346/AssimilationTag/AssimilationTagCharacterSelection.webp)
