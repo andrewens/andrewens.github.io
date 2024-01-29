@@ -2,7 +2,7 @@
 layout: post
 title: "Tunnel Wars V2"
 tags: ["ship crew rpg"]
-thumbnail: https://lh3.google.com/u/0/d/1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW
+thumbnail: https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/Ladder.gif
 ---
 
 ## About
@@ -19,14 +19,14 @@ And as you can see, the map got simplified a lot as well. I also added some cust
 
 ## Gifs
 
-![TheFloorIsALie.gif](https://lh3.google.com/u/0/d/1mCH8LSfsqNm-47QUCJpQ-tdP59_vti0j)
-![StrafeBackwardsNoFlag.gif](https://lh3.google.com/u/0/d/1KpZaSCUXc12GEiEwIM8jXCTwZDIvLh-n)
-![StrafeBackwards.gif](https://lh3.google.com/u/0/d/1VwgCc5-z1mYO0Xea6d2W1B-SeKgt6Xpc)
-![ShovelHitAnimation.gif](https://lh3.google.com/u/0/d/1o2TdA7OfdajBss7JwiWWDxDbLGcwXrpN)
-![ShotgunPointShovelDoesnt.gif](https://lh3.google.com/u/0/d/1zqTDuJaqzPY4RNmVTiEYK3e6cfoNIvbZ)
-![LadderWithoutAnimationsOrLooking.gif](https://lh3.google.com/u/0/d/1CYLLf7Vs1X62QnwUYFDg9QCpEBJ-C_DI)
-![LadderToggle.gif](https://lh3.google.com/u/0/d/1Fyx_d7qUk8rMrIh-mNFvxtRHrNhIUjUJ)
-![Ladder.gif](https://lh3.google.com/u/0/d/1pIRXXMYC1p_txWT5RTkUzoeo6c16ddYW)
-![JumpFromTopOfLadder.gif](https://lh3.google.com/u/0/d/1ptPsbY0bHEzKtvdaec_EDPu9TBAIJldA)
-![JumpFromSideOfLadder.gif](https://lh3.google.com/u/0/d/1vtNYqnQYwTpQ8PgpQtEMNwf8aZuzN8qJ)
-![CharacterLooksAtMouse.gif](https://lh3.google.com/u/0/d/1ioAoE1iT3CjJ6vE3TmUcnJSYx_rmy870)
+![TheFloorIsALie.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/TheFloorIsALie.gif)
+![StrafeBackwardsNoFlag.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/StrafeBackwardsNoFlag.gif)
+![StrafeBackwards.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/StrafeBackwards.gif)
+![ShovelHitAnimation.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/ShovelHitAnimation.gif)
+![ShotgunPointShovelDoesnt.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/ShotgunPointShovelDoesnt.gif)
+![LadderWithoutAnimationsOrLooking.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/LadderWithoutAnimationsOrLooking.gif)
+![LadderToggle.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/LadderToggle.gif)
+![Ladder.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/Ladder.gif)
+![JumpFromTopOfLadder.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/JumpFromTopOfLadder.gif)
+![JumpFromSideOfLadder.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/JumpFromSideOfLadder.gif)
+![CharacterLooksAtMouse.gif](https://storage.googleapis.com/test-bucket-24385982346/Tunnel%20Wars%20V2/CharacterLooksAtMouse.gif)
