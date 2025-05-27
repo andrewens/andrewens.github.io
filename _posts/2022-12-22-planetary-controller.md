@@ -24,6 +24,7 @@ Then, the character's movement and orientation are defined in terms of that tang
 _Final iteration._
 
 ![MouseLock.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/MouseLock.gif)
+
 _A mouselock variant_
 
 ![NoCharacterTurning.gif](https://storage.googleapis.com/test-bucket-24385982346/PlanetaryController/NoCharacterTurning.gif)
