@@ -1,0 +1,73 @@
+/* sidenav main */
+.sidenav {
+  /* height: 100%; */
+  width: 280px;
+  height: 300px;
+  position: fixed;
+  z-index: 1;
+  top: 20px;
+  left: 30px;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding: 8px 0;
+
+  border-right: 2px solid rgb(75, 75, 75);
+}
+
+.sidenav h1 {
+  font-variant: small-caps;
+  color: rgb(35, 35, 35);
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+/* menu items */
+.sidenav ul {
+  list-style-type: none;
+}
+
+.sidenav li {
+  font-size: 26px;
+  margin-bottom: 5px;
+  padding: 0 5px;
+}
+
+.sidenav .active {
+  background: #000000;
+  color: #f5f5f4;
+}
+
+.sidenav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.sidenav li a:hover {
+  text-decoration: underline;
+}
+
+/*
+.sidenav li.active a:hover {
+  text-decoration: none;
+}
+*/
+
+/* footer */
+.sidenav footer {
+  margin-top: 35px;
+}
+
+.sidenav .pill {
+  font-size: 14px;
+  border-radius: 12px;
+  border: 1px solid;
+  padding: 5px 15px;
+
+  text-decoration: none;
+}
