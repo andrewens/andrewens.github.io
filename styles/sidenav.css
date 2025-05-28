@@ -41,6 +41,7 @@
 .sidenav .active {
   background: #000000;
   color: #f5f5f4;
+  font-weight: 600;
 }
 
 .sidenav a {
