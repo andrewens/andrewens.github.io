@@ -21,6 +21,10 @@
   color: rgb(35, 35, 35);
   margin: 20px 0;
   font-weight: bold;
+  width: max(
+    round(down, 100%, 260px) - 20px, /* snap to grid columns */
+    240px /* width can't be smaller than this */
+  );
 }
 
 .separator::before,
